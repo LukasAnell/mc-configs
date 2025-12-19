@@ -1,0 +1,44 @@
++--------------------------+-------+---------+-----------+
+| Material List for schematic 'Unnamed' (1 of 1 regions) |
++--------------------------+-------+---------+-----------+
+| Item                     | Total | Missing | Available |
++--------------------------+-------+---------+-----------+
+| Cobblestone              |  1059 |    1059 |        56 |
+| Water Bucket             |   947 |     947 |         1 |
+| Glass                    |   319 |     319 |       441 |
+| Block of Emerald         |   164 |     164 |         0 |
+| Smooth Stone             |   118 |     118 |         0 |
+| Stone                    |   105 |     105 |         0 |
+| Redstone Dust            |    61 |      61 |        44 |
+| White Stained Glass      |    48 |      48 |         0 |
+| Red Stained Glass        |    26 |      26 |         0 |
+| Cobblestone Wall         |    23 |      23 |        23 |
+| Hopper                   |    21 |      21 |         0 |
+| Observer                 |    19 |      19 |        58 |
+| Smooth Stone Slab        |    19 |      19 |         0 |
+| Soul Sand                |    17 |      17 |         0 |
+| Composter                |    15 |      15 |         0 |
+| Piston                   |    14 |      14 |        29 |
+| Chest                    |    13 |      13 |         0 |
+| Oak Sign                 |    12 |      12 |         0 |
+| Ladder                   |    10 |      10 |         0 |
+| Sticky Piston            |    10 |      10 |        56 |
+| Torch                    |    10 |      10 |         0 |
+| Polished Andesite Stairs |     8 |       8 |         0 |
+| Redstone Repeater        |     8 |       8 |         0 |
+| Magma Block              |     7 |       7 |         0 |
+| Oak Trapdoor             |     5 |       5 |         0 |
+| Redstone Comparator      |     5 |       5 |         0 |
+| Redstone Torch           |     5 |       5 |        35 |
+| Cauldron                 |     2 |       2 |         0 |
+| Dispenser                |     2 |       2 |         0 |
+| Stone Button             |     2 |       2 |         0 |
+| Beacon                   |     1 |       1 |         0 |
+| Lightning Rod            |     1 |       1 |         0 |
+| Oak Fence                |     1 |       1 |         0 |
+| Scaffolding              |     1 |       1 |         0 |
+| Stone Pressure Plate     |     1 |       1 |         0 |
+| String                   |     1 |       1 |         0 |
++--------------------------+-------+---------+-----------+
+| Item                     | Total | Missing | Available |
++--------------------------+-------+---------+-----------+

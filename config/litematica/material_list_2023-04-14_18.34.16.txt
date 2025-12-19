@@ -1,0 +1,30 @@
++------------------------+-------+---------+----------------------------+
+| Material List for placement 'Toggleable 8x Infinite Villager Breeder' |
++------------------------+-------+---------+----------------------------+
+| Item                   | Total | Missing |                  Available |
++------------------------+-------+---------+----------------------------+
+| Glass                  |  1075 |    1075 |                          0 |
+| Dirt                   |   640 |     624 |                          0 |
+| Carrot                 |   624 |     624 |                          0 |
+| Red Bed                |    32 |      32 |                          0 |
+| Acacia Trapdoor        |    31 |      31 |                          0 |
+| Block of Iron          |    23 |      23 |                          0 |
+| Redstone Torch         |    21 |      21 |                          0 |
+| Composter              |    16 |      16 |                          0 |
+| Torch                  |    16 |      16 |                          0 |
+| Piston                 |     8 |       8 |                          0 |
+| Water Bucket           |     8 |       8 |                          1 |
+| Acacia Fence Gate      |     4 |       4 |                          0 |
+| Deepslate Brick Slab   |     4 |       4 |                          0 |
+| Deepslate Brick Wall   |     3 |       3 |                          0 |
+| Deepslate Brick Stairs |     2 |       2 |                          0 |
+| Lever                  |     2 |       2 |                          0 |
+| Soul Sand              |     2 |       2 |                          0 |
+| Acacia Pressure Plate  |     1 |       1 |                          0 |
+| Ladder                 |     1 |       1 |                          0 |
+| Powered Rail           |     1 |       1 |                          0 |
+| Rail                   |     1 |       1 |                          0 |
+| Redstone Lamp          |     1 |       1 |                          0 |
++------------------------+-------+---------+----------------------------+
+| Item                   | Total | Missing |                  Available |
++------------------------+-------+---------+----------------------------+

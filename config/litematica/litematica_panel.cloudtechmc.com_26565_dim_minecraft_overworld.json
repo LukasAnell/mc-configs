@@ -1,0 +1,84 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "..\\..\\..\\..\\..\\MultiMC\\instances\\Fabric 1.17.1 Updated\\.minecraft\\schematics\\sync\\DiggyPeriDeco.litematic",
+        "name": "DiggyPeriDeco.litematic",
+        "origin": [
+          -4144,
+          5,
+          3072
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "NutechUltimatePerimeter",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                511
+              ],
+              "name": "NutechUltimatePerimeter",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "SINGLE_LAYER",
+    "axis": "y",
+    "layer_single": 25,
+    "layer_above": -8,
+    "layer_below": 125,
+    "layer_range_min": 0,
+    "layer_range_max": 8,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "piston pusher large updated",
+    "current": "piston pusher large updated",
+    "boxes": [
+      {
+        "pos1": [
+          -262,
+          10,
+          -287
+        ],
+        "pos2": [
+          -262,
+          10,
+          -287
+        ],
+        "name": "piston pusher large updated"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

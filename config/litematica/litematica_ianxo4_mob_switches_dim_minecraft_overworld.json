@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL_BELOW",
+    "axis": "y",
+    "layer_single": -47,
+    "layer_above": 4,
+    "layer_below": 92,
+    "layer_range_min": 91,
+    "layer_range_max": 96,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "ianxo4 small shulker farm for mobswitch",
+    "current": "ianxo4 small shulker farm for mobswitch",
+    "boxes": [
+      {
+        "pos1": [
+          129,
+          83,
+          31
+        ],
+        "pos2": [
+          109,
+          62,
+          49
+        ],
+        "name": "ianxo4 small shulker farm for mobswitch"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

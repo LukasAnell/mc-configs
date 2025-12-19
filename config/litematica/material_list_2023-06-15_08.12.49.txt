@@ -1,0 +1,27 @@
++---------------------+------------+---------+-----------+
+| Material List for placement 'Precision 1x Box Loader'  |
++---------------------+------------+---------+-----------+
+| Item                | Total (x2) | Missing | Available |
++---------------------+------------+---------+-----------+
+| Gray Concrete       |         16 |      16 |         0 |
+| Hopper              |         14 |      14 |       133 |
+| Observer            |         12 |      12 |         0 |
+| Redstone Dust       |         10 |      10 |         0 |
+| Redstone Repeater   |         10 |      10 |         0 |
+| Dropper             |          6 |       6 |         0 |
+| Block of Redstone   |          4 |       4 |         0 |
+| Gray Stained Glass  |          4 |       4 |         0 |
+| Redstone Comparator |          4 |       4 |         0 |
+| Sticky Piston       |          4 |       4 |         0 |
+| Composter           |          2 |       2 |         0 |
+| Dispenser           |          2 |       2 |         0 |
+| Jack o'Lantern      |          2 |       2 |         0 |
+| Note Block          |          2 |       2 |         0 |
+| Packed Ice          |          2 |       2 |       177 |
+| Piston              |          2 |       2 |         0 |
+| Redstone Torch      |          2 |       2 |         0 |
+| Sand                |          2 |       2 |         0 |
+| White Shulker Box   |          2 |       2 |         0 |
++---------------------+------------+---------+-----------+
+| Item                | Total (x2) | Missing | Available |
++---------------------+------------+---------+-----------+

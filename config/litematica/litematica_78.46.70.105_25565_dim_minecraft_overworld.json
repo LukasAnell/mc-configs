@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 250,
+    "layer_above": 0,
+    "layer_below": 216,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "ice path slime pushers",
+    "current": "ice path slime pushers",
+    "boxes": [
+      {
+        "pos1": [
+          9391,
+          32,
+          4244
+        ],
+        "pos2": [
+          9392,
+          28,
+          4222
+        ],
+        "name": "ice path slime pushers"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

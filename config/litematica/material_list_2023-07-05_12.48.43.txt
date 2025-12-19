@@ -1,0 +1,43 @@
++-------------------------+-------+---------+----------------------+
+| Material List for placement '192k silly string concrete factory' |
++-------------------------+-------+---------+----------------------+
+| Item                    | Total | Missing |            Available |
++-------------------------+-------+---------+----------------------+
+| Obsidian                |   305 |     305 |                    0 |
+| Gray Stained Glass      |   291 |     291 |                    0 |
+| Observer                |   120 |     120 |                   38 |
+| Pink Concrete           |    80 |      80 |                    0 |
+| String                  |    53 |      53 |                    0 |
+| Blue Ice                |    48 |      48 |                    0 |
+| Gray Concrete           |    46 |      46 |                    0 |
+| Slime Block             |    41 |      41 |                   50 |
+| Note Block              |    40 |      40 |                    0 |
+| Piston                  |    37 |      37 |                   48 |
+| Birch Sign              |    33 |      33 |                    0 |
+| Sticky Piston           |    33 |      33 |                   33 |
+| Polished Deepslate Wall |    30 |      30 |                    0 |
+| Gray Glazed Terracotta  |    27 |      27 |                    0 |
+| Birch Fence Gate        |    18 |      18 |                    0 |
+| Iron Door               |    18 |      18 |                    0 |
+| Redstone Dust           |    17 |      17 |                   58 |
+| Redstone Repeater       |    15 |      15 |                   57 |
+| Smooth Quartz Stairs    |    15 |      15 |                    0 |
+| Tripwire Hook           |    14 |      14 |                    0 |
+| Oak Leaves              |     8 |       8 |                    0 |
+| Rail                    |     8 |       8 |                    0 |
+| Smooth Stone Slab       |     8 |       8 |                    0 |
+| Block of Redstone       |     7 |       7 |                   57 |
+| Oak Log                 |     6 |       6 |                    0 |
+| Powered Rail            |     6 |       6 |                    0 |
+| Redstone Torch          |     6 |       6 |                    0 |
+| Redstone Comparator     |     4 |       4 |                   63 |
+| Water Bucket            |     4 |       4 |                    1 |
+| Dead Tube Coral Fan     |     2 |       2 |                    0 |
+| Ender Chest             |     1 |       1 |                   46 |
+| Iron Trapdoor           |     1 |       1 |                    0 |
+| Lever                   |     1 |       1 |                    0 |
+| Oak Sign                |     1 |       1 |                    2 |
+| TNT                     |     1 |       1 |                    0 |
++-------------------------+-------+---------+----------------------+
+| Item                    | Total | Missing |            Available |
++-------------------------+-------+---------+----------------------+

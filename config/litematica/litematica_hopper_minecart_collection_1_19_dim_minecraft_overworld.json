@@ -1,0 +1,86 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "schematics\\1.17_Wither_Killer_-_Markus__DatNerd_3GT_input.litematic",
+        "name": "1.17+_Wither_Killer - Markus \u0026 DatNerd_3GT_input",
+        "origin": [
+          37,
+          -43,
+          -51
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "1.17+_Wither_Killer - Markus \u0026 DatNerd_3GT_input",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "1.17+_Wither_Killer - Markus \u0026 DatNerd_3GT_input",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 81,
+    "layer_above": 0,
+    "layer_below": 90,
+    "layer_range_min": 91,
+    "layer_range_max": 96,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "cart yeeter",
+    "current": "cart yeeter",
+    "boxes": [
+      {
+        "pos1": [
+          73,
+          -53,
+          -83
+        ],
+        "pos2": [
+          65,
+          -58,
+          -81
+        ],
+        "name": "cart yeeter"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

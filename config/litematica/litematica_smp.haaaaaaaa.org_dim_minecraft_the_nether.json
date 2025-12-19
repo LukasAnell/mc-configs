@@ -1,0 +1,122 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "schematics\\NetherTrenchMakerFinal.litematic",
+        "name": "NetherTrenchMaker",
+        "origin": [
+          833,
+          84,
+          287
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "NetherTrenchMaker",
+            "placement": {
+              "pos": [
+                20,
+                0,
+                0
+              ],
+              "name": "NetherTrenchMaker",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\NetherTrenchMakerFinal.litematic",
+        "name": "NetherTrenchMaker",
+        "origin": [
+          833,
+          84,
+          497
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 21386,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "NetherTrenchMaker",
+            "placement": {
+              "pos": [
+                20,
+                0,
+                0
+              ],
+              "name": "NetherTrenchMaker",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL_BELOW",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 1,
+    "layer_below": 7,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          0,
+          0,
+          0
+        ],
+        "pos2": [
+          0,
+          0,
+          0
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

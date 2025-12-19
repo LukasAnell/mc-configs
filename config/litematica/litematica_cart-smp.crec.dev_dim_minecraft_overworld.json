@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 233,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 2,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "azalea farm full (test)",
+    "current": "azalea farm full (test)",
+    "boxes": [
+      {
+        "pos1": [
+          6897,
+          63,
+          6941
+        ],
+        "pos2": [
+          6879,
+          83,
+          6912
+        ],
+        "name": "azalea farm full (test)"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

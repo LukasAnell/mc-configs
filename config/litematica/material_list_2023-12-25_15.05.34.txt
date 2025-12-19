@@ -1,0 +1,22 @@
++---------------------+-------+---------+------------------------------------------+
+| Material List for schematic 'nether chunkloader schmoe digsort' (1 of 1 regions) |
++---------------------+-------+---------+------------------------------------------+
+| Item                | Total | Missing |                                Available |
++---------------------+-------+---------+------------------------------------------+
+| White Stained Glass |    15 |      15 |                                        0 |
+| Obsidian            |    14 |      14 |                                        0 |
+| Honey Block         |     2 |       2 |                                        0 |
+| Snow Block          |     2 |       2 |                                        0 |
+| White Concrete      |     2 |       2 |                                        0 |
+| Carved Pumpkin      |     1 |       1 |                                        0 |
+| Dispenser           |     1 |       1 |                                        0 |
+| Dropper             |     1 |       1 |                                        0 |
+| Hopper              |     1 |       1 |                                        0 |
+| Observer            |     1 |       1 |                                        0 |
+| Redstone Comparator |     1 |       1 |                                        0 |
+| Redstone Dust       |     1 |       1 |                                        0 |
+| Slime Block         |     1 |       1 |                                        0 |
+| Sticky Piston       |     1 |       1 |                                        0 |
++---------------------+-------+---------+------------------------------------------+
+| Item                | Total | Missing |                                Available |
++---------------------+-------+---------+------------------------------------------+

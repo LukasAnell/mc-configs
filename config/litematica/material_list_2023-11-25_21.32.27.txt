@@ -1,0 +1,51 @@
++--------------------------------+-------+---------+-----------+
+| Material List for placement 'Sugar Cane Farm'                |
++--------------------------------+-------+---------+-----------+
+| Item                           | Total | Missing | Available |
++--------------------------------+-------+---------+-----------+
+| Sugar Cane                     |  1810 |    1810 |         0 |
+| Moss Block                     |  1803 |    1803 |         0 |
+| Mangrove Leaves                |   454 |     454 |         0 |
+| Polished Blackstone Bricks     |   219 |     219 |         0 |
+| Powered Rail                   |   176 |     176 |         0 |
+| Polished Blackstone Brick Slab |   136 |     136 |         0 |
+| Observer                       |   134 |     134 |         0 |
+| Glowstone                      |   128 |     128 |         0 |
+| Sticky Piston                  |    94 |      94 |         0 |
+| Redstone Dust                  |    73 |      73 |         0 |
+| Pink Stained Glass             |    62 |      62 |         0 |
+| Lever                          |    48 |      48 |         0 |
+| Redstone Repeater              |    48 |      48 |         0 |
+| Mud                            |    37 |      37 |         0 |
+| Bamboo Fence Gate              |    36 |      36 |         0 |
+| Detector Rail                  |    36 |      36 |         0 |
+| Iron Trapdoor                  |    36 |      36 |         0 |
+| Hopper                         |    32 |      32 |         6 |
+| Slime Block                    |    30 |      30 |       447 |
+| Chest                          |    25 |      25 |         0 |
+| Crying Obsidian                |    21 |      21 |         0 |
+| Honey Block                    |    20 |      20 |         0 |
+| Pink Stained Glass Pane        |    14 |      14 |         0 |
+| Packed Ice                     |    13 |      13 |         0 |
+| Redstone Comparator            |    10 |      10 |         2 |
+| Redstone Torch                 |     9 |       9 |         0 |
+| Composter                      |     8 |       8 |         0 |
+| Mangrove Roots                 |     7 |       7 |         0 |
+| Note Block                     |     7 |       7 |         0 |
+| Piston                         |     5 |       5 |         0 |
+| Bamboo Button                  |     4 |       4 |         0 |
+| Bamboo Trapdoor                |     4 |       4 |         0 |
+| Dropper                        |     4 |       4 |         0 |
+| Bamboo Sign                    |     2 |       2 |         0 |
+| Block of Redstone              |     2 |       2 |         0 |
+| Dispenser                      |     2 |       2 |         0 |
+| Redstone Lamp                  |     2 |       2 |         0 |
+| Water Bucket                   |     2 |       2 |         1 |
+| Amethyst Cluster               |     1 |       1 |         0 |
+| Cauldron                       |     1 |       1 |         0 |
+| Lightning Rod                  |     1 |       1 |         0 |
+| Shulker Box                    |     1 |       1 |        51 |
+| Target                         |     1 |       1 |         0 |
++--------------------------------+-------+---------+-----------+
+| Item                           | Total | Missing | Available |
++--------------------------------+-------+---------+-----------+

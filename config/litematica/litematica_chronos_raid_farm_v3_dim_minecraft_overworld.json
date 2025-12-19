@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Chronos V3 F.A.T.A.S.S.",
+    "current": "Chronos V3 F.A.T.A.S.S.",
+    "boxes": [
+      {
+        "pos1": [
+          1094,
+          170,
+          1024
+        ],
+        "pos2": [
+          1001,
+          27,
+          1005
+        ],
+        "name": "Chronos V3 F.A.T.A.S.S."
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

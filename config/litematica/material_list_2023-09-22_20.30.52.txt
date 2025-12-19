@@ -1,0 +1,19 @@
++---------------------+-------+---------+---------------+
+| Material List for placement '[1.16] Pyra 2x Unloader' |
++---------------------+-------+---------+---------------+
+| Item                | Total | Missing |     Available |
++---------------------+-------+---------+---------------+
+| Hopper              |     4 |       4 |             0 |
+| Activator Rail      |     3 |       3 |             0 |
+| Observer            |     3 |       3 |             0 |
+| White Concrete      |     3 |       3 |             0 |
+| Block of Redstone   |     2 |       2 |             0 |
+| Redstone Comparator |     2 |       2 |             0 |
+| Sticky Piston       |     2 |       2 |             0 |
+| Dispenser           |     1 |       1 |             0 |
+| Dropper             |     1 |       1 |             0 |
+| Piston              |     1 |       1 |             0 |
+| White Stained Glass |     1 |       1 |             0 |
++---------------------+-------+---------+---------------+
+| Item                | Total | Missing |     Available |
++---------------------+-------+---------+---------------+

@@ -1,0 +1,56 @@
++-------------------------------+-------+---------+----------------+
+| Material List for schematic '1.17+ NersCrafter' (3 of 3 regions) |
++-------------------------------+-------+---------+----------------+
+| Item                          | Total | Missing |      Available |
++-------------------------------+-------+---------+----------------+
+| White Stained Glass           |   176 |     176 |              0 |
+| White Concrete                |   137 |     137 |              0 |
+| Redstone Repeater             |    53 |      53 |              0 |
+| Magenta Stained Glass         |    48 |      48 |              0 |
+| Redstone Dust                 |    47 |      47 |              0 |
+| Hopper                        |    46 |      46 |             59 |
+| Observer                      |    41 |      41 |             64 |
+| Red Concrete                  |    38 |      38 |              0 |
+| Chest                         |    36 |      36 |              0 |
+| Activator Rail                |    34 |      34 |              0 |
+| Barrel                        |    28 |      28 |              0 |
+| Lime Stained Glass            |    23 |      23 |              0 |
+| Redstone Comparator           |    21 |      21 |              0 |
+| Dropper                       |    16 |      16 |              0 |
+| Gray Glazed Terracotta        |    13 |      13 |              0 |
+| Redstone Torch                |    13 |      13 |              0 |
+| Note Block                    |    11 |      11 |              0 |
+| Packed Ice                    |    11 |      11 |              0 |
+| Piston                        |     6 |       6 |              0 |
+| Slime Block                   |     6 |       6 |              0 |
+| Honey Block                   |     4 |       4 |              0 |
+| Quartz Stairs                 |     4 |       4 |              0 |
+| Sticky Piston                 |     4 |       4 |              0 |
+| Water Bucket                  |     4 |       4 |              1 |
+| Composter                     |     3 |       3 |              0 |
+| Jack o'Lantern                |     3 |       3 |              0 |
+| Oak Sign                      |     3 |       3 |              0 |
+| Redstone Lamp                 |     3 |       3 |              0 |
+| Block of Redstone             |     2 |       2 |              0 |
+| Ender Chest                   |     2 |       2 |             54 |
+| Glow Lichen                   |     2 |       2 |              0 |
+| Heavy Weighted Pressure Plate |     2 |       2 |              0 |
+| Iron Trapdoor                 |     2 |       2 |              0 |
+| Target                        |     2 |       2 |              0 |
+| Amethyst Cluster              |     1 |       1 |              0 |
+| Cake                          |     1 |       1 |              0 |
+| Crafting Table                |     1 |       1 |              0 |
+| Dispenser                     |     1 |       1 |              0 |
+| Grindstone                    |     1 |       1 |              0 |
+| Iron Door                     |     1 |       1 |              0 |
+| Lava Bucket                   |     1 |       1 |              0 |
+| Lectern                       |     1 |       1 |              0 |
+| Lever                         |     1 |       1 |              0 |
+| Smooth Quartz Slab            |     1 |       1 |              0 |
+| Soul Sand                     |     1 |       1 |              0 |
+| Spruce Sign                   |     1 |       1 |              0 |
+| White Stained Glass Pane      |     1 |       1 |              0 |
+| White Wool                    |     1 |       1 |              0 |
++-------------------------------+-------+---------+----------------+
+| Item                          | Total | Missing |      Available |
++-------------------------------+-------+---------+----------------+

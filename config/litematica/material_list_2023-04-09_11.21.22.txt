@@ -1,0 +1,23 @@
++--------------------+-------+---------+--------------------+
+| Material List for schematic 'TunnelBore' (1 of 1 regions) |
++--------------------+-------+---------+--------------------+
+| Item               | Total | Missing |          Available |
++--------------------+-------+---------+--------------------+
+| Stone Brick Slab   |   875 |     875 |                  0 |
+| Stone Bricks       |   823 |     823 |                  0 |
+| Brown Mushroom     |   480 |     480 |                  0 |
+| Tinted Glass       |   184 |     184 |                  0 |
+| Scaffolding        |   120 |     120 |                  0 |
+| Powder Snow Bucket |    25 |      25 |                  0 |
+| Lily Pad           |    17 |      17 |                  0 |
+| Lantern            |    11 |      11 |                  0 |
+| Dark Oak Fence     |     8 |       8 |                  0 |
+| Water Bucket       |     4 |       4 |                  1 |
+| Chest              |     2 |       2 |                  0 |
+| Hopper             |     1 |       1 |                  0 |
+| Iron Trapdoor      |     1 |       1 |                  0 |
+| Oak Planks         |     1 |       1 |                  0 |
+| Soul Campfire      |     1 |       1 |                  0 |
++--------------------+-------+---------+--------------------+
+| Item               | Total | Missing |          Available |
++--------------------+-------+---------+--------------------+

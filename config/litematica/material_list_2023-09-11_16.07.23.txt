@@ -1,0 +1,26 @@
++---------------------+-------+---------+--------------------------------+
+| Material List for schematic '1.15+ wither mob switch' (1 of 1 regions) |
++---------------------+-------+---------+--------------------------------+
+| Item                | Total | Missing |                      Available |
++---------------------+-------+---------+--------------------------------+
+| White Stained Glass |    19 |      19 |                              0 |
+| Chest               |    14 |      14 |                              0 |
+| Bedrock             |     9 |       9 |                              0 |
+| Smooth Stone        |     9 |       9 |                              0 |
+| Hopper              |     7 |       7 |                              0 |
+| Observer            |     5 |       5 |                              0 |
+| Redstone Dust       |     4 |       4 |                              7 |
+| Dispenser           |     3 |       3 |                              0 |
+| Sticky Piston       |     3 |       3 |                              0 |
+| Dropper             |     2 |       2 |                              0 |
+| Redstone Repeater   |     2 |       2 |                              0 |
+| Cobblestone Wall    |     1 |       1 |                              0 |
+| Ender Chest         |     1 |       1 |                             43 |
+| Obsidian            |     1 |       1 |                              0 |
+| Piston              |     1 |       1 |                              0 |
+| Redstone Torch      |     1 |       1 |                              0 |
+| Soul Sand           |     1 |       1 |                              0 |
+| Vines               |     1 |       1 |                              0 |
++---------------------+-------+---------+--------------------------------+
+| Item                | Total | Missing |                      Available |
++---------------------+-------+---------+--------------------------------+

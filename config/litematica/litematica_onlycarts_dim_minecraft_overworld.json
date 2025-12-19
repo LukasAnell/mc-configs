@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 102,
+    "layer_above": -6,
+    "layer_below": 122,
+    "layer_range_min": 0,
+    "layer_range_max": 2,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "small chest monster",
+    "current": "small chest monster",
+    "boxes": [
+      {
+        "pos1": [
+          425,
+          147,
+          141
+        ],
+        "pos2": [
+          424,
+          142,
+          144
+        ],
+        "name": "small chest monster"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

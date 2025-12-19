@@ -1,0 +1,19 @@
++----------------------+-------+---------+------------------+
+| Material List for schematic 'Ender Mini' (1 of 1 regions) |
++----------------------+-------+---------+------------------+
+| Item                 | Total | Missing |        Available |
++----------------------+-------+---------+------------------+
+| Oak Leaves           |   334 |     334 |                0 |
+| White Carpet         |    51 |      51 |                0 |
+| Stone                |    44 |      44 |                0 |
+| String               |    17 |      17 |                0 |
+| Birch Fence          |     8 |       8 |                0 |
+| Daylight Detector    |     6 |       6 |                0 |
+| Hopper               |     6 |       6 |                0 |
+| Oak Trapdoor         |     6 |       6 |                0 |
+| Dark Prismarine Slab |     3 |       3 |                0 |
+| Warped Fence         |     3 |       3 |                0 |
+| Chest                |     2 |       2 |                0 |
++----------------------+-------+---------+------------------+
+| Item                 | Total | Missing |        Available |
++----------------------+-------+---------+------------------+

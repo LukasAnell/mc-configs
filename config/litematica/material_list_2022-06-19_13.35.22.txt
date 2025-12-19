@@ -1,0 +1,84 @@
++----------------------------+--------+---------+-----------+
+| Material List for placement 'NutechUltimatePerimeter'     |
++----------------------------+--------+---------+-----------+
+| Item                       |  Total | Missing | Available |
++----------------------------+--------+---------+-----------+
+| Black Concrete             | 263908 |  263908 |         0 |
+| Blue Terracotta            |  39159 |   39159 |         0 |
+| Cyan Concrete              |  30312 |   30312 |         0 |
+| Black Concrete Powder      |  23352 |   23352 |         0 |
+| Blue Concrete              |  20462 |   20462 |         0 |
+| Gray Concrete              |  18828 |   18828 |         0 |
+| Cyan Terracotta            |  10626 |   10626 |         0 |
+| Block of Coal              |   9950 |    9950 |         0 |
+| Light Blue Concrete Powder |   8750 |    8750 |         0 |
+| Light Blue Wool            |   6332 |    6332 |         0 |
+| Cyan Concrete Powder       |   5996 |    5996 |         0 |
+| White Concrete             |   5338 |    5338 |         0 |
+| Purple Concrete Powder     |   4519 |    4519 |         0 |
+| Black Wool                 |   4120 |    4120 |         0 |
+| Blue Concrete Powder       |   3760 |    3760 |         0 |
+| Purple Concrete            |   3590 |    3590 |         0 |
+| Light Blue Terracotta      |   3558 |    3558 |         0 |
+| Cyan Wool                  |   3440 |    3440 |         0 |
+| Orange Concrete            |   3437 |    3437 |         0 |
+| Light Blue Concrete        |   2705 |    2705 |         0 |
+| Block of Redstone          |   2243 |    2243 |         0 |
+| Block of Gold              |   2100 |    2100 |         0 |
+| Magenta Concrete Powder    |   2016 |    2016 |         0 |
+| Sandstone                  |   1454 |    1454 |         0 |
+| Prismarine Bricks          |   1175 |    1175 |         0 |
+| Green Concrete             |   1116 |    1116 |         0 |
+| White Wool                 |    993 |     993 |         0 |
+| Gray Terracotta            |    927 |     927 |         0 |
+| Purple Wool                |    880 |     880 |         0 |
+| Block of Lapis Lazuli      |    846 |     846 |         0 |
+| Diorite                    |    758 |     758 |         0 |
+| Magenta Wool               |    621 |     621 |         0 |
+| Black Terracotta           |    565 |     565 |         0 |
+| Red Concrete               |    524 |     524 |         0 |
+| Blue Wool                  |    488 |     488 |         0 |
+| Orange Terracotta          |    390 |     390 |         0 |
+| Pink Concrete              |    390 |     390 |         0 |
+| White Concrete Powder      |    374 |     374 |         0 |
+| Crimson Hyphae             |    372 |     372 |         0 |
+| Block of Quartz            |    361 |     361 |         0 |
+| Nether Bricks              |    305 |     305 |         0 |
+| Lime Concrete Powder       |    248 |     248 |         0 |
+| Pink Terracotta            |    233 |     233 |         0 |
+| White Terracotta           |    228 |     228 |         0 |
+| Magenta Concrete           |    225 |     225 |         0 |
+| Red Terracotta             |    212 |     212 |         0 |
+| Lime Concrete              |    184 |     184 |         0 |
+| Warped Planks              |    183 |     183 |         0 |
+| Yellow Concrete            |    168 |     168 |         0 |
+| Green Concrete Powder      |    127 |     127 |         0 |
+| Packed Ice                 |    124 |     124 |         0 |
+| Gray Wool                  |    115 |     115 |         0 |
+| Warped Hyphae              |    113 |     113 |         0 |
+| Brown Terracotta           |     89 |      89 |         0 |
+| Pink Concrete Powder       |     81 |      81 |         0 |
+| Purple Terracotta          |     67 |      67 |         0 |
+| Magenta Terracotta         |     66 |      66 |         0 |
+| Brown Concrete             |     53 |      53 |         0 |
+| Light Gray Terracotta      |     49 |      49 |         0 |
+| Granite                    |     46 |      46 |         0 |
+| Lime Terracotta            |     44 |      44 |         0 |
+| Light Gray Concrete        |     38 |      38 |         0 |
+| Gray Concrete Powder       |     29 |      29 |         0 |
+| Yellow Terracotta          |     28 |      28 |         0 |
+| Cobblestone                |     26 |      26 |         0 |
+| Block of Iron              |     25 |      25 |         0 |
+| Crimson Planks             |     24 |      24 |         0 |
+| Green Terracotta           |     24 |      24 |         0 |
+| Spruce Planks              |     22 |      22 |         0 |
+| Light Gray Concrete Powder |     16 |      16 |         0 |
+| Oak Planks                 |     12 |      12 |         0 |
+| Warped Wart Block          |      9 |       9 |         0 |
+| Netherrack                 |      6 |       6 |         0 |
+| Slime Block                |      6 |       6 |         0 |
+| Green Wool                 |      4 |       4 |         0 |
+| Light Gray Wool            |      3 |       3 |         0 |
++----------------------------+--------+---------+-----------+
+| Item                       |  Total | Missing | Available |
++----------------------------+--------+---------+-----------+

@@ -1,0 +1,30 @@
++------------------------+-------+---------+----------------------+
+| Material List for schematic 'mini cobble farm' (1 of 1 regions) |
++------------------------+-------+---------+----------------------+
+| Item                   | Total | Missing |            Available |
++------------------------+-------+---------+----------------------+
+| White Stained Glass    |    82 |      82 |                    0 |
+| Obsidian               |    39 |      39 |                   68 |
+| Cobblestone            |    16 |      16 |                    0 |
+| Lava Bucket            |    16 |      16 |                    0 |
+| Stone Brick Stairs     |    14 |      14 |                    0 |
+| White Concrete         |    11 |      11 |                    0 |
+| Redstone Repeater      |     7 |       7 |                    0 |
+| Slime Block            |     6 |       6 |                    0 |
+| Redstone Dust          |     3 |       3 |                    0 |
+| Warped Trapdoor        |     3 |       3 |                    0 |
+| Sticky Piston          |     2 |       2 |                    0 |
+| Cobblestone Wall       |     1 |       1 |                    0 |
+| Dead Brain Coral Fan   |     1 |       1 |                    0 |
+| Detector Rail          |     1 |       1 |                    0 |
+| Lever                  |     1 |       1 |                    0 |
+| Lime Glazed Terracotta |     1 |       1 |                    0 |
+| Observer               |     1 |       1 |                    0 |
+| Packed Ice             |     1 |       1 |                    0 |
+| Smooth Stone Slab      |     1 |       1 |                    0 |
+| TNT                    |     1 |       1 |                    0 |
+| Warped Fence Gate      |     1 |       1 |                    0 |
+| Water Bucket           |     1 |       1 |                    1 |
++------------------------+-------+---------+----------------------+
+| Item                   | Total | Missing |            Available |
++------------------------+-------+---------+----------------------+

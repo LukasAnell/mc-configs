@@ -1,0 +1,876 @@
+{
+  "selections": {
+    "mode": "SIMPLE",
+    "current": "D:\\Prism Launcher\\PrismLauncher\\instances\\Fabric 1.19.4\\.minecraft\\config\\litematica\\area_selections_per_world\\placeholder_main_storage_dev\\area_selections\\schmoe digsort.json"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "schematics\\J-MIS_v2.9.litematic",
+        "name": "J-MIS v2.9",
+        "origin": [
+          -122,
+          -12,
+          19
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 5845781,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "J-MIS v2.9",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "J-MIS v2.9",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\G-MIS v2.1 - Full.litematic",
+        "name": "G-MIS v2.1 - Full",
+        "origin": [
+          -129,
+          -7,
+          -88
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8482918,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Lower Hall",
+            "placement": {
+              "pos": [
+                39,
+                0,
+                0
+              ],
+              "name": "Lower Hall",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Input",
+            "placement": {
+              "pos": [
+                6,
+                0,
+                58
+              ],
+              "name": "Input",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Entrance",
+            "placement": {
+              "pos": [
+                45,
+                6,
+                0
+              ],
+              "name": "Entrance",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "UnStackables",
+            "placement": {
+              "pos": [
+                21,
+                20,
+                13
+              ],
+              "name": "UnStackables",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Mid Hall",
+            "placement": {
+              "pos": [
+                55,
+                6,
+                48
+              ],
+              "name": "Mid Hall",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Variable Sorter",
+            "placement": {
+              "pos": [
+                22,
+                2,
+                83
+              ],
+              "name": "Variable Sorter",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Chunk Loaders",
+            "placement": {
+              "pos": [
+                35,
+                35,
+                66
+              ],
+              "name": "Chunk Loaders",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Upper Hall",
+            "placement": {
+              "pos": [
+                0,
+                16,
+                12
+              ],
+              "name": "Upper Hall",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Main Storage Tests\\Krebs Main Storage 1.20.1 1.0.litematic",
+        "name": "Krebs Main Storage 1.20.1 1.0",
+        "origin": [
+          158,
+          -32,
+          -411
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Krebs Main Storage 1.20.1 1.0",
+            "placement": {
+              "pos": [
+                113,
+                100,
+                118
+              ],
+              "name": "Krebs Main Storage 1.20.1 1.0",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\yams_multiplayer_edition_wip_dont_built_doesnt_work_only_use_for_looking_at_cool_encoded_stuff.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -313,
+          -64,
+          -728
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\CommandLeo_1.19.3_FHL_Unstackable_Sorter.litematic",
+        "name": "1.19.3 FHL Unstackable Sorter",
+        "origin": [
+          -292,
+          -10,
+          -296
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "1.19.3 FHL Unstackable Sorter",
+            "placement": {
+              "pos": [
+                0,
+                8,
+                0
+              ],
+              "name": "1.19.3 FHL Unstackable Sorter",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\YAMS_Singleplayer_Edition_v1.69.litematic",
+        "name": "YAMS_Singleplayer_Edition_v1.69",
+        "origin": [
+          -32,
+          -64,
+          -528
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 5453690,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "YAMS_Singleplayer_Edition_v1.69",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "YAMS_Singleplayer_Edition_v1.69",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\CommandLeo_1.19.3_FHL_Unstackable_Sorter.litematic",
+        "name": "1.19.3 FHL Unstackable Sorter",
+        "origin": [
+          -11,
+          -10,
+          -464
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16748032,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "1.19.3 FHL Unstackable Sorter",
+            "placement": {
+              "pos": [
+                0,
+                8,
+                0
+              ],
+              "name": "1.19.3 FHL Unstackable Sorter",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Farm_Bulk_4m_v1.0.0-slice.litematic",
+        "name": "Farm Bulk 4m v1.0.0-slice",
+        "origin": [
+          32,
+          13,
+          -163
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 12648480,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Farm Bulk 4m v1.0.0-slice",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Farm Bulk 4m v1.0.0-slice",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\1.12 kiku bulk 1.5 with box sorter.litematic",
+        "name": "1.12 kiku bulk 1.5 with box sorter",
+        "origin": [
+          33,
+          16,
+          -76
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "1.12 kiku bulk 1.5 with box sorter",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                17
+              ],
+              "name": "1.12 kiku bulk 1.5 with box sorter",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Oracle Digsort.litematic",
+        "name": "Oracle Digsort",
+        "origin": [
+          12167,
+          -39,
+          12050
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 13541986,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Digsort",
+            "placement": {
+              "pos": [
+                23,
+                0,
+                44
+              ],
+              "name": "Digsort",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Chunk Loading",
+            "placement": {
+              "pos": [
+                13,
+                19,
+                20
+              ],
+              "name": "Chunk Loading",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Oracle Digsort",
+            "placement": {
+              "pos": [
+                23,
+                0,
+                44
+              ],
+              "name": "Oracle Digsort",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\sync\\Cpmpact Digsort v2.0.litematic",
+        "name": "2 Player Digsort",
+        "origin": [
+          12087,
+          -31,
+          12148
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 32052,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Compact Digsort Bottom",
+            "placement": {
+              "pos": [
+                -8,
+                11,
+                15
+              ],
+              "name": "Compact Digsort Bottom",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Compact Digsort Top",
+            "placement": {
+              "pos": [
+                2,
+                56,
+                4
+              ],
+              "name": "Compact Digsort Top",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Mechanists_DigSort_v6.litematic",
+        "name": "Mechanists DigSort v6",
+        "origin": [
+          12194,
+          -45,
+          12193
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Mechanists DigSort v6",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Mechanists DigSort v6",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "ChunkLoader",
+            "placement": {
+              "pos": [
+                4,
+                39,
+                21
+              ],
+              "name": "ChunkLoader",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\schmoe digsort.litematic",
+        "name": "schmoe digsort",
+        "origin": [
+          11928,
+          -28,
+          11776
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 21386,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Chunkloading",
+            "placement": {
+              "pos": [
+                13,
+                19,
+                20
+              ],
+              "name": "Chunkloading",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Main",
+            "placement": {
+              "pos": [
+                0,
+                18,
+                0
+              ],
+              "name": "Main",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "SSU Digsort",
+            "placement": {
+              "pos": [
+                0,
+                19,
+                0
+              ],
+              "name": "SSU Digsort",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Heilz_var_loader_v3.2.litematic",
+        "name": "Unnamed",
+        "origin": [
+          12253,
+          -23,
+          12064
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16743004,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                27,
+                10,
+                10
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\ProtoTech Slime Farm Storage 1wABt.litematic",
+        "name": "ProtoTech Slime Farm Storage 1wABt",
+        "origin": [
+          68995,
+          -36,
+          69030
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 11741265,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "ProtoTech Slime Farm Storage 1wABt",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "ProtoTech Slime Farm Storage 1wABt",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\6x_loader_array_example.litematic",
+        "name": "6x loader array example",
+        "origin": [
+          69009,
+          -19,
+          68870
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16041984,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "6x loader array example",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "6x loader array example",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 128,
+    "layer_above": 0,
+    "layer_below": -3,
+    "layer_range_min": 91,
+    "layer_range_max": 95,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "long boi box loaders",
+    "current": "long boi box loaders",
+    "boxes": [
+      {
+        "pos1": [
+          69008,
+          -24,
+          68908
+        ],
+        "pos2": [
+          69115,
+          -29,
+          68902
+        ],
+        "name": "long boi box loaders"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

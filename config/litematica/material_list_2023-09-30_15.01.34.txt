@@ -1,0 +1,53 @@
++------------------------------+-------+---------+-----------+
+| Material List for placement 'Slime Farm OW Storage'        |
++------------------------------+-------+---------+-----------+
+| Item                         | Total | Missing | Available |
++------------------------------+-------+---------+-----------+
+| Gray Stained Glass           |  1561 |    1561 |         0 |
+| Hopper                       |  1114 |    1114 |         0 |
+| Chest                        |   752 |     752 |         0 |
+| Redstone Repeater            |   422 |     422 |         0 |
+| Observer                     |   395 |     395 |        11 |
+| Barrel                       |   368 |     368 |         0 |
+| Gray Concrete                |   339 |     339 |         0 |
+| Sticky Piston                |   166 |     166 |        24 |
+| Composter                    |   160 |     160 |         0 |
+| Dropper                      |   145 |     145 |         0 |
+| Redstone Comparator          |   143 |     143 |         0 |
+| Note Block                   |   126 |     126 |        23 |
+| Block of Redstone            |   125 |     125 |         4 |
+| Redstone Dust                |   122 |     122 |        89 |
+| Packed Ice                   |   121 |     121 |         0 |
+| Piston                       |    89 |      89 |         3 |
+| Gray Stained Glass Pane      |    69 |      69 |         0 |
+| Slime Block                  |    46 |      46 |       147 |
+| Activator Rail               |    42 |      42 |         0 |
+| Redstone Torch               |    40 |      40 |        63 |
+| Honey Block                  |    32 |      32 |         0 |
+| Iron Door                    |    31 |      31 |         0 |
+| Obsidian                     |    31 |      31 |      1377 |
+| Oak Leaves                   |    30 |      30 |         0 |
+| Iron Trapdoor                |    28 |      28 |         0 |
+| Target                       |    27 |      27 |         0 |
+| Dispenser                    |    18 |      18 |         0 |
+| Polished Deepslate Stairs    |    18 |      18 |         0 |
+| Shulker Box                  |    17 |      17 |        40 |
+| Smooth Stone Slab            |    16 |      16 |         0 |
+| Water Bucket                 |    16 |      16 |         1 |
+| Powered Rail                 |    15 |      15 |        53 |
+| Light Gray Glazed Terracotta |    13 |      13 |         0 |
+| Sand                         |    13 |      13 |         0 |
+| Stone Stairs                 |     7 |       7 |         0 |
+| Oak Log                      |     5 |       5 |         0 |
+| Stone Slab                   |     5 |       5 |         0 |
+| Scaffolding                  |     3 |       3 |         0 |
+| Soul Sand                    |     3 |       3 |         0 |
+| Crafting Table               |     2 |       2 |         0 |
+| Oak Sign                     |     2 |       2 |         0 |
+| Spruce Fence Gate            |     2 |       2 |         0 |
+| Ender Chest                  |     1 |       1 |        34 |
+| Lever                        |     1 |       1 |         0 |
+| Spruce Fence                 |     1 |       1 |         0 |
++------------------------------+-------+---------+-----------+
+| Item                         | Total | Missing | Available |
++------------------------------+-------+---------+-----------+

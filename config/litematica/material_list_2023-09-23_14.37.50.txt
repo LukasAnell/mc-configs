@@ -1,0 +1,26 @@
++-------------------------+-------+---------+-------------------------+
+| Material List for placement 'slime farm update skipper arm whitemc' |
++-------------------------+-------+---------+-------------------------+
+| Item                    | Total | Missing |               Available |
++-------------------------+-------+---------+-------------------------+
+| Obsidian                |  8989 |      29 |                     256 |
+| Slime Block             |  1580 |    1580 |                       0 |
+| Powered Rail            |   518 |     518 |                       0 |
+| Sticky Piston           |   488 |     488 |                       0 |
+| White Stained Glass     |   345 |     345 |                       0 |
+| Block of Redstone       |   316 |     316 |                       0 |
+| Observer                |   245 |     245 |                       0 |
+| Sandstone               |   177 |     177 |                       0 |
+| Piston                  |    61 |      61 |                    1024 |
+| Redstone Dust           |     8 |       8 |                     320 |
+| White Glazed Terracotta |     7 |       7 |                       0 |
+| Note Block              |     4 |       4 |                       0 |
+| White Concrete          |     4 |       4 |                       0 |
+| Oak Trapdoor            |     3 |       3 |                       0 |
+| Lever                   |     1 |       1 |                       1 |
+| Redstone Comparator     |     1 |       1 |                       0 |
+| Redstone Lamp           |     1 |       1 |                       0 |
+| Redstone Torch          |     1 |       1 |                     320 |
++-------------------------+-------+---------+-------------------------+
+| Item                    | Total | Missing |               Available |
++-------------------------+-------+---------+-------------------------+

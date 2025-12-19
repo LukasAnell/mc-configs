@@ -1,0 +1,24 @@
++--------------------------+------------+---------+-----------+
+| Material List for schematic 'cart yeeter' (1 of 1 regions)  |
++--------------------------+------------+---------+-----------+
+| Item                     | Total (x2) | Missing | Available |
++--------------------------+------------+---------+-----------+
+| Powered Rail             |         24 |      24 |         0 |
+| White Concrete           |         24 |      24 |         0 |
+| Light Gray Stained Glass |         14 |      14 |         0 |
+| Observer                 |          8 |       8 |         0 |
+| Amethyst Cluster         |          4 |       4 |        54 |
+| Block of Redstone        |          4 |       4 |         0 |
+| Cauldron                 |          4 |       4 |         0 |
+| Detector Rail            |          4 |       4 |         0 |
+| Dispenser                |          4 |       4 |         0 |
+| Dropper                  |          4 |       4 |         0 |
+| Hopper                   |          4 |       4 |         0 |
+| Mud                      |          4 |       4 |         0 |
+| Note Block               |          4 |       4 |         0 |
+| Quartz Slab              |          4 |       4 |         0 |
+| Redstone Dust            |          2 |       2 |         0 |
+| Redstone Repeater        |          2 |       2 |         0 |
++--------------------------+------------+---------+-----------+
+| Item                     | Total (x2) | Missing | Available |
++--------------------------+------------+---------+-----------+

@@ -1,0 +1,44 @@
+{
+  "selections": {
+    "mode": "NORMAL",
+    "current": "D:\\Prism Launcher\\PrismLauncher\\instances\\Fabric 1.19.4\\.minecraft\\config\\litematica\\area_selections_per_world\\cmp.monkey-room.com_25567\\area_selections\\Oracle Digsort.json"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "oracle digsort",
+    "current": "oracle digsort",
+    "boxes": [
+      {
+        "pos1": [
+          -500033,
+          30,
+          -500180
+        ],
+        "pos2": [
+          -500056,
+          48,
+          -500224
+        ],
+        "name": "oracle digsort"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

@@ -1,0 +1,22 @@
++---------------------+-------+---------+-------------------------------+
+| Material List for schematic 'ChunkLoader_NetherSide' (1 of 1 regions) |
++---------------------+-------+---------+-------------------------------+
+| Item                | Total | Missing |                     Available |
++---------------------+-------+---------+-------------------------------+
+| Gray Stained Glass  |    41 |      41 |                            55 |
+| Obsidian            |    14 |      14 |                            50 |
+| Dropper             |     5 |       5 |                            52 |
+| Gray Concrete       |     5 |       5 |                            56 |
+| Observer            |     4 |       4 |                            12 |
+| Birch Sign          |     3 |       3 |                            12 |
+| Redstone Dust       |     3 |       3 |                             4 |
+| Redstone Repeater   |     3 |       3 |                             6 |
+| Hopper              |     1 |       1 |                            18 |
+| Piston              |     1 |       1 |                             6 |
+| Rail                |     1 |       1 |                             0 |
+| Redstone Comparator |     1 |       1 |                            60 |
+| Redstone Torch      |     1 |       1 |                            55 |
+| Sticky Piston       |     1 |       1 |                             6 |
++---------------------+-------+---------+-------------------------------+
+| Item                | Total | Missing |                     Available |
++---------------------+-------+---------+-------------------------------+

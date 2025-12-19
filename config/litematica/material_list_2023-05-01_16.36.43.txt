@@ -1,0 +1,44 @@
++--------------------------+-------+---------+--------------+
+| Material List for placement 'Scaffolding Shulker Farm V3' |
++--------------------------+-------+---------+--------------+
+| Item                     | Total | Missing |    Available |
++--------------------------+-------+---------+--------------+
+| Scaffolding              |  2923 |    2923 |            0 |
+| Smooth Stone Slab        |  2908 |    2908 |            0 |
+| Redstone Dust            |   104 |     104 |            0 |
+| Powered Rail             |    76 |      76 |            0 |
+| Glass                    |    70 |      70 |            0 |
+| Soul Sand                |    44 |      44 |            0 |
+| Warped Trapdoor          |    36 |      36 |            0 |
+| Rail                     |    35 |      35 |            0 |
+| Stone Button             |    29 |      29 |            0 |
+| Black Stained Glass      |    28 |      28 |            0 |
+| Glass Pane               |    27 |      27 |            0 |
+| Oak Fence Gate           |    24 |      24 |            0 |
+| Oak Fence                |    22 |      22 |            0 |
+| Glowstone                |    18 |      18 |            0 |
+| Cobblestone Stairs       |    17 |      17 |            0 |
+| Lever                    |    17 |      17 |            0 |
+| Polished Deepslate       |    16 |      16 |            0 |
+| Black Stained Glass Pane |    11 |      11 |            0 |
+| Chest                    |     8 |       8 |            0 |
+| Hopper                   |     8 |       8 |            6 |
+| Sticky Piston            |     8 |       8 |            0 |
+| Redstone Torch           |     4 |       4 |            0 |
+| Dispenser                |     2 |       2 |            0 |
+| Powder Snow Bucket       |     2 |       2 |            0 |
+| Redstone Repeater        |     2 |       2 |            0 |
+| Stone Pressure Plate     |     2 |       2 |            0 |
+| Acacia Door              |     1 |       1 |            0 |
+| Cauldron                 |     1 |       1 |            0 |
+| Composter                |     1 |       1 |            0 |
+| Note Block               |     1 |       1 |            0 |
+| Oak Pressure Plate       |     1 |       1 |            0 |
+| Observer                 |     1 |       1 |            0 |
+| Piston                   |     1 |       1 |            0 |
+| Redstone Comparator      |     1 |       1 |            0 |
+| Target                   |     1 |       1 |            0 |
+| Vines                    |     1 |       1 |            0 |
++--------------------------+-------+---------+--------------+
+| Item                     | Total | Missing |    Available |
++--------------------------+-------+---------+--------------+

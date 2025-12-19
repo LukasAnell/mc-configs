@@ -1,0 +1,35 @@
++-------------------------+-------+---------+------------------------------+
+| Material List for placement '5-wide 8gt Crafting Station Alternative UI' |
++-------------------------+-------+---------+------------------------------+
+| Item                    | Total | Missing |                    Available |
++-------------------------+-------+---------+------------------------------+
+| Gray Concrete           |    16 |      16 |                            0 |
+| Observer                |    14 |      14 |                            0 |
+| Chest                   |     8 |       8 |                            0 |
+| Note Block              |     7 |       7 |                            0 |
+| Smooth Quartz Stairs    |     7 |       7 |                            0 |
+| Hopper                  |     6 |       6 |                            0 |
+| Redstone Comparator     |     6 |       6 |                            0 |
+| Redstone Dust           |     6 |       6 |                            0 |
+| Smooth Quartz Slab      |     5 |       5 |                            0 |
+| Gray Stained Glass      |     3 |       3 |                            0 |
+| Scaffolding             |     3 |       3 |                            0 |
+| Sticky Piston           |     3 |       3 |                            0 |
+| Crafting Table          |     2 |       2 |                            0 |
+| Dispenser               |     2 |       2 |                            0 |
+| Gray Stained Glass Pane |     2 |       2 |                            0 |
+| Iron Trapdoor           |     2 |       2 |                            0 |
+| Spruce Fence Gate       |     2 |       2 |                            0 |
+| White Shulker Box       |     2 |       2 |                            0 |
+| Barrel                  |     1 |       1 |                            0 |
+| Composter               |     1 |       1 |                            0 |
+| Ender Chest             |     1 |       1 |                           40 |
+| Obsidian                |     1 |       1 |                            0 |
+| Piston                  |     1 |       1 |                            0 |
+| Redstone Repeater       |     1 |       1 |                            0 |
+| Redstone Torch          |     1 |       1 |                            0 |
+| Slime Block             |     1 |       1 |                            0 |
+| Spruce Fence            |     1 |       1 |                            0 |
++-------------------------+-------+---------+------------------------------+
+| Item                    | Total | Missing |                    Available |
++-------------------------+-------+---------+------------------------------+

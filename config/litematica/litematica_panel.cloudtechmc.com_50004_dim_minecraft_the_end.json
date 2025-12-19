@@ -1,0 +1,84 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "schematics\\skyzy slime farm slice.litematic",
+        "name": "skyzy slime farm slice",
+        "origin": [
+          43,
+          52,
+          -68
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 11741265,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "skyzy slime farm slice",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "skyzy slime farm slice",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": -47,
+    "layer_above": 1,
+    "layer_below": -46,
+    "layer_range_min": 91,
+    "layer_range_max": 95,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "ProtoTech Slime Farm Storage 1wABt",
+    "current": "ProtoTech Slime Farm Storage 1wABt",
+    "boxes": [
+      {
+        "pos1": [
+          39,
+          54,
+          -129
+        ],
+        "pos2": [
+          51,
+          78,
+          -128
+        ],
+        "name": "ProtoTech Slime Farm Storage 1wABt"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

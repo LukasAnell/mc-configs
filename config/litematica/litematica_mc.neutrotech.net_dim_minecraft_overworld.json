@@ -1,0 +1,304 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.17.1\\.minecraft\\schematics\\sync\\Crafter OW.litematic",
+        "name": "Crafter OW",
+        "origin": [
+          667,
+          64,
+          -706
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                40
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.17.1\\.minecraft\\schematics\\3waybreaker_by_desu_withoutpistonrecovery.litematic",
+        "name": "3waybreaker_by_desu_withoutpistonrecovery",
+        "origin": [
+          65,
+          5,
+          11
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "3waybreaker_by_desu",
+            "placement": {
+              "pos": [
+                -4,
+                0,
+                -9
+              ],
+              "name": "3waybreaker_by_desu",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "return",
+            "placement": {
+              "pos": [
+                -4,
+                0,
+                -365
+              ],
+              "name": "return",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.17.1\\.minecraft\\schematics\\4gt_piston_placer.litematic",
+        "name": "4gt_piston_placer",
+        "origin": [
+          58,
+          12,
+          16
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8482918,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "endcap",
+            "placement": {
+              "pos": [
+                -28,
+                -1,
+                -2
+              ],
+              "name": "endcap",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "extension",
+            "placement": {
+              "pos": [
+                -15,
+                -1,
+                -2
+              ],
+              "name": "extension",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "engine",
+            "placement": {
+              "pos": [
+                -5,
+                -2,
+                0
+              ],
+              "name": "engine",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "supply_line",
+            "placement": {
+              "pos": [
+                -1,
+                -2,
+                -10
+              ],
+              "name": "supply_line",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.17.1\\.minecraft\\schematics\\piston placer tile.litematic",
+        "name": "piston placer tile",
+        "origin": [
+          57,
+          11,
+          373
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "piston placer tile",
+            "placement": {
+              "pos": [
+                2,
+                5,
+                0
+              ],
+              "name": "piston placer tile",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.17.1\\.minecraft\\schematics\\piston pusher large updated.litematic",
+        "name": "piston pusher large updated",
+        "origin": [
+          47,
+          10,
+          14
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16743004,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "piston pusher large updated",
+            "placement": {
+              "pos": [
+                5,
+                6,
+                0
+              ],
+              "name": "piston pusher large updated",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 13,
+    "layer_above": 13,
+    "layer_below": 23,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "piston placer tile",
+    "current": "piston placer tile",
+    "boxes": [
+      {
+        "pos1": [
+          60,
+          16,
+          33
+        ],
+        "pos2": [
+          58,
+          11,
+          43
+        ],
+        "name": "piston placer tile"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

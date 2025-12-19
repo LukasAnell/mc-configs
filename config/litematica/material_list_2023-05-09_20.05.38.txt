@@ -1,0 +1,89 @@
++-------------------------------+-------+---------+-------------------------------------------+
+| Material List for schematic 'Dualcore 4gt Fungus Factory - hampter, krebs' (1 of 1 regions) |
++-------------------------------+-------+---------+-------------------------------------------+
+| Item                          | Total | Missing |                                 Available |
++-------------------------------+-------+---------+-------------------------------------------+
+| Gray Stained Glass            |  6488 |    6488 |                                         0 |
+| Cyan Terracotta               |  1220 |    1220 |                                         0 |
+| Observer                      |   892 |     892 |                                         0 |
+| Obsidian                      |   884 |     884 |                                         0 |
+| Packed Ice                    |   838 |     838 |                                         0 |
+| Hopper                        |   770 |     770 |                                         0 |
+| Redstone Dust                 |   614 |     614 |                                         0 |
+| Chest                         |   462 |     462 |                                         0 |
+| Dropper                       |   345 |     345 |                                         0 |
+| Piston                        |   322 |     322 |                                         0 |
+| Redstone Repeater             |   278 |     278 |                                         0 |
+| Redstone Comparator           |   260 |     260 |                                         0 |
+| Sticky Piston                 |   238 |     238 |                                         0 |
+| Block of Redstone             |   198 |     198 |                                         0 |
+| Note Block                    |   189 |     189 |                                         0 |
+| Composter                     |   162 |     162 |                                         0 |
+| Redstone Torch                |   133 |     133 |                                         0 |
+| Water Bucket                  |   133 |     133 |                                         1 |
+| Oak Leaves                    |   103 |     103 |                                         0 |
+| Activator Rail                |    83 |      83 |                                         0 |
+| Jack o'Lantern                |    80 |      80 |                                         0 |
+| Slime Block                   |    76 |      76 |                                         0 |
+| Iron Trapdoor                 |    65 |      65 |                                         0 |
+| Gray Stained Glass Pane       |    62 |      62 |                                         0 |
+| Grass Block                   |    52 |      52 |                                         0 |
+| Oak Fence Gate                |    50 |      50 |                                         0 |
+| Dispenser                     |    48 |      48 |                                         0 |
+| Melon                         |    47 |      47 |                                         0 |
+| Scaffolding                   |    38 |      38 |                                         0 |
+| Warped Stem                   |    33 |      33 |                                         0 |
+| Ladder                        |    31 |      31 |                                         0 |
+| Bubble Coral Fan              |    30 |      30 |                                         0 |
+| Stone Brick Wall              |    29 |      29 |                                         0 |
+| Target                        |    25 |      25 |                                         0 |
+| Stone Brick Stairs            |    24 |      24 |                                         0 |
+| Nether Wart Block             |    22 |      22 |                                         0 |
+| Warped Wart Block             |    22 |      22 |                                         0 |
+| Barrel                        |    20 |      20 |                                         0 |
+| Crimson Stem                  |    19 |      19 |                                         0 |
+| Quartz Stairs                 |    18 |      18 |                                         0 |
+| Quartz Slab                   |    17 |      17 |                                         0 |
+| Smooth Stone Slab             |    17 |      17 |                                         0 |
+| Stripped Oak Log              |    17 |      17 |                                         0 |
+| Ender Chest                   |    16 |      16 |                                         4 |
+| Powered Rail                  |    13 |      13 |                                         0 |
+| Black Shulker Box             |    11 |      11 |                                         0 |
+| Cyan Shulker Box              |    11 |      11 |                                         0 |
+| Dark Oak Leaves               |    11 |      11 |                                         0 |
+| Red Shulker Box               |    11 |      11 |                                         1 |
+| Soul Sand                     |    11 |      11 |                                         0 |
+| Block of Gold                 |    10 |      10 |                                         0 |
+| Warped Nylium                 |     9 |       9 |                                         0 |
+| Warped Sign                   |     9 |       9 |                                         0 |
+| Cobblestone                   |     8 |       8 |                                         0 |
+| Lava Bucket                   |     8 |       8 |                                         0 |
+| Brain Coral                   |     7 |       7 |                                         0 |
+| Shroomlight                   |     7 |       7 |                                         0 |
+| Gray Glazed Terracotta        |     6 |       6 |                                         0 |
+| Tube Coral Fan                |     6 |       6 |                                         0 |
+| Crimson Nylium                |     5 |       5 |                                         0 |
+| Lever                         |     5 |       5 |                                         0 |
+| Block of Netherite            |     4 |       4 |                                         0 |
+| Dirt                          |     4 |       4 |                                         0 |
+| Iron Door                     |     4 |       4 |                                         0 |
+| Stone Brick Slab              |     4 |       4 |                                         0 |
+| TNT                           |     4 |       4 |                                         0 |
+| Trapped Chest                 |     4 |       4 |                                         0 |
+| Dead Tube Coral Fan           |     3 |       3 |                                         0 |
+| Stone Pressure Plate          |     3 |       3 |                                         0 |
+| Cactus                        |     2 |       2 |                                         0 |
+| Cobweb                        |     2 |       2 |                                         0 |
+| Crafting Table                |     2 |       2 |                                         0 |
+| Sand                          |     2 |       2 |                                         0 |
+| Stripped Dark Oak Log         |     2 |       2 |                                         0 |
+| Stripped Spruce Wood          |     2 |       2 |                                         0 |
+| Dark Oak Trapdoor             |     1 |       1 |                                         0 |
+| Heavy Weighted Pressure Plate |     1 |       1 |                                         0 |
+| Oak Sign                      |     1 |       1 |                                         0 |
+| Sea Pickle                    |     1 |       1 |                                         0 |
+| Stripped Oak Wood             |     1 |       1 |                                         0 |
+| Yellow Shulker Box            |     1 |       1 |                                         0 |
++-------------------------------+-------+---------+-------------------------------------------+
+| Item                          | Total | Missing |                                 Available |
++-------------------------------+-------+---------+-------------------------------------------+

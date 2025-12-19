@@ -1,0 +1,21 @@
++------------------------------+-------+---------+----------------+
+| Material List for schematic '3x3 Chunk Quarry' (1 of 1 regions) |
++------------------------------+-------+---------+----------------+
+| Item                         | Total | Missing |      Available |
++------------------------------+-------+---------+----------------+
+| Slime Block                  |   536 |     536 |             27 |
+| Observer                     |   190 |     190 |            267 |
+| Piston                       |   130 |     130 |             91 |
+| Sticky Piston                |   122 |     122 |             97 |
+| Light Blue Glazed Terracotta |    67 |      67 |              0 |
+| Yellow Concrete              |    60 |      60 |              0 |
+| Block of Redstone            |    45 |      45 |             25 |
+| Sandstone                    |    15 |      15 |              0 |
+| Cobblestone Wall             |     9 |       9 |              0 |
+| Dead Fire Coral Fan          |     9 |       9 |              0 |
+| Detector Rail                |     9 |       9 |              0 |
+| TNT                          |     9 |       9 |              0 |
+| Target                       |     2 |       2 |              3 |
++------------------------------+-------+---------+----------------+
+| Item                         | Total | Missing |      Available |
++------------------------------+-------+---------+----------------+

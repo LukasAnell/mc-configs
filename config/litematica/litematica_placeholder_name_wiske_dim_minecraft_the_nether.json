@@ -1,0 +1,238 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "schematics\\slimev4.1_all.litematic",
+        "name": "slime",
+        "origin": [
+          -86,
+          160,
+          -70
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "slime",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "slime",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\ice path slime pushers.litematic",
+        "name": "ice path slime pushers",
+        "origin": [
+          -64,
+          154,
+          -102
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "ice path slime pushers",
+            "placement": {
+              "pos": [
+                0,
+                4,
+                22
+              ],
+              "name": "ice path slime pushers",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Slime Farm Nether Side.litematic",
+        "name": "Slime Farm Nether Side",
+        "origin": [
+          -86,
+          151,
+          -109
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Slime Farm Nether Side",
+            "placement": {
+              "pos": [
+                37,
+                0,
+                76
+              ],
+              "name": "Slime Farm Nether Side",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\slime farm update skipper arm whitemc.litematic",
+        "name": "slime farm update skipper arm whitemc",
+        "origin": [
+          256,
+          198,
+          -79
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 13541986,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "slime farm update skipper arm whitemc",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "slime farm update skipper arm whitemc",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\slime farm nether portal slicing.litematic",
+        "name": "slime farm nether portal slicing",
+        "origin": [
+          -49,
+          226,
+          -197
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16743004,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "slime farm nether portal slicing",
+            "placement": {
+              "pos": [
+                23,
+                8,
+                0
+              ],
+              "name": "slime farm nether portal slicing",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 4,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 235,
+    "layer_above": 0,
+    "layer_below": 148,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "slime farm extra filters",
+    "current": "slime farm extra filters",
+    "boxes": [
+      {
+        "pos1": [
+          -67,
+          153,
+          -98
+        ],
+        "pos2": [
+          -74,
+          147,
+          -93
+        ],
+        "name": "slime farm extra filters"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

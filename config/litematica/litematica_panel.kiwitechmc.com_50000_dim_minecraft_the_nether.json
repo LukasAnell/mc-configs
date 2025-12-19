@@ -1,0 +1,533 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "schematics\\savestate_target.litematic",
+        "name": "savestate_target",
+        "origin": [
+          -4817,
+          128,
+          9935
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "savestate_target",
+            "placement": {
+              "pos": [
+                17,
+                0,
+                0
+              ],
+              "name": "savestate_target",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\proto_nether_sync_mkV.litematic",
+        "name": "proto_nether_sync",
+        "origin": [
+          -4817,
+          49,
+          9919
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "selected_region": "async_torch",
+        "placements": [
+          {
+            "name": "async_torch",
+            "placement": {
+              "pos": [
+                21,
+                10,
+                33
+              ],
+              "name": "async_torch",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "glass_break",
+            "placement": {
+              "pos": [
+                18,
+                206,
+                30
+              ],
+              "name": "glass_break",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "observer_line_1",
+            "placement": {
+              "pos": [
+                219,
+                79,
+                254
+              ],
+              "name": "observer_line_1",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "safe_zone",
+            "placement": {
+              "pos": [
+                232,
+                79,
+                345
+              ],
+              "name": "safe_zone",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "unload_cancel_line_2",
+            "placement": {
+              "pos": [
+                49,
+                80,
+                28
+              ],
+              "name": "unload_cancel_line_2",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "async_lava",
+            "placement": {
+              "pos": [
+                24,
+                9,
+                42
+              ],
+              "name": "async_lava",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "glass_torch",
+            "placement": {
+              "pos": [
+                55,
+                200,
+                52
+              ],
+              "name": "glass_torch",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "unload_cancel_line_1",
+            "placement": {
+              "pos": [
+                217,
+                80,
+                29
+              ],
+              "name": "unload_cancel_line_1",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "player_head",
+            "placement": {
+              "pos": [
+                297,
+                79,
+                288
+              ],
+              "name": "player_head",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "invis_chunk_load",
+            "placement": {
+              "pos": [
+                0,
+                79,
+                7
+              ],
+              "name": "invis_chunk_load",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "invis_chunk_savestate",
+            "placement": {
+              "pos": [
+                20,
+                41,
+                56
+              ],
+              "name": "invis_chunk_savestate",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "observer_line_4",
+            "placement": {
+              "pos": [
+                298,
+                79,
+                260
+              ],
+              "name": "observer_line_4",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "observer_line_2",
+            "placement": {
+              "pos": [
+                253,
+                82,
+                246
+              ],
+              "name": "observer_line_2",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "observer_line_3",
+            "placement": {
+              "pos": [
+                245,
+                79,
+                335
+              ],
+              "name": "observer_line_3",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "autosave_loader",
+            "placement": {
+              "pos": [
+                193,
+                82,
+                0
+              ],
+              "name": "autosave_loader",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "autosave_line",
+            "placement": {
+              "pos": [
+                215,
+                81,
+                215
+              ],
+              "name": "autosave_line",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "command_center",
+            "placement": {
+              "pos": [
+                199,
+                89,
+                248
+              ],
+              "name": "command_center",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "invis_chunk_line_2",
+            "placement": {
+              "pos": [
+                13,
+                81,
+                217
+              ],
+              "name": "invis_chunk_line_2",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "invis_chunk_line_1",
+            "placement": {
+              "pos": [
+                22,
+                86,
+                60
+              ],
+              "name": "invis_chunk_line_1",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "glass_line_1",
+            "placement": {
+              "pos": [
+                55,
+                80,
+                227
+              ],
+              "name": "glass_line_1",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "glass_line_2",
+            "placement": {
+              "pos": [
+                54,
+                79,
+                51
+              ],
+              "name": "glass_line_2",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "glass_tower",
+            "placement": {
+              "pos": [
+                57,
+                0,
+                40
+              ],
+              "name": "glass_tower",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "async_line_1",
+            "placement": {
+              "pos": [
+                40,
+                80,
+                246
+              ],
+              "name": "async_line_1",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "word_tearing",
+            "placement": {
+              "pos": [
+                307,
+                206,
+                300
+              ],
+              "name": "word_tearing",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "async_line_2",
+            "placement": {
+              "pos": [
+                40,
+                79,
+                246
+              ],
+              "name": "async_line_2",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 1,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": -49,
+    "layer_above": 1,
+    "layer_below": 206,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "sea level gmf peri",
+    "current": "sea level gmf peri",
+    "boxes": [
+      {
+        "pos1": [
+          -1288,
+          120,
+          -333
+        ],
+        "pos2": [
+          -1288,
+          120,
+          -333
+        ],
+        "name": "sea level gmf peri"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

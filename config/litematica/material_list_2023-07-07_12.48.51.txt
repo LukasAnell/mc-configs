@@ -1,0 +1,95 @@
++----------------------------+-------+---------+-----------+
+| Material List for placement 'Full Concrete Storage'      |
++----------------------------+-------+---------+-----------+
+| Item                       | Total | Missing | Available |
++----------------------------+-------+---------+-----------+
+| Gray Stained Glass         |  5887 |    5887 |         0 |
+| Hopper                     |  3097 |    3049 |        89 |
+| Gray Concrete              |  2906 |    2906 |         0 |
+| Observer                   |  2109 |    1965 |        24 |
+| Redstone Dust              |  1780 |    1760 |        16 |
+| Dropper                    |  1593 |    1569 |        24 |
+| Redstone Comparator        |  1314 |    1293 |        32 |
+| Packed Ice                 |  1056 |     976 |       169 |
+| Redstone Repeater          |   901 |     882 |        26 |
+| Gray Stained Glass Pane    |   810 |     810 |         0 |
+| Chest                      |   802 |     794 |        70 |
+| Redstone Torch             |   800 |     787 |        37 |
+| Jack o'Lantern             |   576 |     560 |        48 |
+| Composter                  |   570 |     558 |        35 |
+| Note Block                 |   552 |     507 |        12 |
+| Block of Redstone          |   477 |     468 |        53 |
+| Piston                     |   362 |     321 |        23 |
+| Sticky Piston              |   324 |     289 |        27 |
+| Obsidian                   |   305 |       0 |         0 |
+| Iron Trapdoor              |   293 |     288 |        11 |
+| Activator Rail             |   255 |     255 |        18 |
+| Water Bucket               |   238 |     221 |         2 |
+| Oak Leaves                 |   224 |     216 |         0 |
+| Powered Rail               |   222 |     210 |        44 |
+| Target                     |   192 |     188 |        11 |
+| Dispenser                  |   181 |     177 |         0 |
+| Stone Brick Wall           |   174 |     174 |         0 |
+| Soul Sand                  |   145 |     140 |        59 |
+| White Shulker Box          |   144 |     144 |         0 |
+| Smooth Stone Slab          |   121 |     113 |         0 |
+| Barrel                     |   108 |     108 |         0 |
+| Tube Coral Fan             |    89 |      81 |        56 |
+| String                     |    54 |       1 |         0 |
+| Black Concrete             |    48 |      48 |         0 |
+| Blue Ice                   |    48 |       0 |         0 |
+| Oak Log                    |    42 |      36 |         0 |
+| Slime Block                |    41 |       4 |         0 |
+| Redstone Lamp              |    37 |      37 |         0 |
+| Polished Deepslate Stairs  |    36 |      36 |         0 |
+| Birch Sign                 |    33 |      33 |         0 |
+| Gray Glazed Terracotta     |    27 |      27 |         0 |
+| Iron Door                  |    21 |      12 |         0 |
+| Birch Fence Gate           |    18 |      18 |         0 |
+| Smooth Quartz Stairs       |    15 |      15 |         0 |
+| Sand                       |    14 |       2 |         0 |
+| Tripwire Hook              |    14 |       0 |         0 |
+| Black Concrete Powder      |    13 |      13 |         0 |
+| Blue Concrete              |    13 |      13 |         0 |
+| Blue Concrete Powder       |    13 |      13 |         0 |
+| Brown Concrete             |    13 |      13 |         0 |
+| Brown Concrete Powder      |    13 |      13 |         0 |
+| Cyan Concrete              |    13 |      13 |         0 |
+| Cyan Concrete Powder       |    13 |      13 |         0 |
+| Dragon Egg                 |    13 |      13 |         0 |
+| Gravel                     |    13 |      13 |         0 |
+| Gray Concrete Powder       |    13 |      13 |         0 |
+| Green Concrete             |    13 |      13 |         0 |
+| Green Concrete Powder      |    13 |      13 |         0 |
+| Light Blue Concrete        |    13 |      13 |         0 |
+| Light Blue Concrete Powder |    13 |      13 |         0 |
+| Light Gray Concrete        |    13 |      13 |         0 |
+| Light Gray Concrete Powder |    13 |      13 |         0 |
+| Lime Concrete              |    13 |      13 |         0 |
+| Lime Concrete Powder       |    13 |      13 |         0 |
+| Magenta Concrete           |    13 |      13 |         0 |
+| Magenta Concrete Powder    |    13 |      13 |         0 |
+| Orange Concrete            |    13 |      13 |         0 |
+| Orange Concrete Powder     |    13 |      13 |         0 |
+| Pink Concrete              |    13 |      13 |         0 |
+| Pink Concrete Powder       |    13 |      13 |         0 |
+| Purple Concrete            |    13 |      13 |         0 |
+| Purple Concrete Powder     |    13 |      13 |         0 |
+| Red Concrete Powder        |    13 |      13 |         0 |
+| Red Sand                   |    13 |      13 |         0 |
+| White Concrete Powder      |    13 |      13 |         0 |
+| Yellow Concrete            |    13 |      13 |         0 |
+| Yellow Concrete Powder     |    13 |      13 |         0 |
+| Honey Block                |     8 |       6 |        48 |
+| Rail                       |     8 |       0 |         0 |
+| Sea Pickle                 |     6 |       6 |         4 |
+| Dead Tube Coral Fan        |     2 |       0 |         0 |
+| Oak Sign                   |     2 |       1 |         0 |
+| Cactus                     |     1 |       1 |         0 |
+| Ender Chest                |     1 |       0 |        45 |
+| Lever                      |     1 |       1 |         0 |
+| TNT                        |     1 |       0 |         0 |
+| White Concrete             |     1 |       1 |         0 |
++----------------------------+-------+---------+-----------+
+| Item                       | Total | Missing | Available |
++----------------------------+-------+---------+-----------+

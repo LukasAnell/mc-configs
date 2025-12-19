@@ -1,0 +1,25 @@
++---------------------+-------+---------+-------------------------------------------+
+| Material List for schematic 'Kahyxen item based chunk loader ow' (1 of 1 regions) |
++---------------------+-------+---------+-------------------------------------------+
+| Item                | Total | Missing |                                 Available |
++---------------------+-------+---------+-------------------------------------------+
+| Black Stained Glass |    18 |      18 |                                         0 |
+| Obsidian            |    17 |      17 |                                         0 |
+| Pink Stained Glass  |    11 |      11 |                                         0 |
+| Smooth Stone        |    10 |      10 |                                         0 |
+| Observer            |     7 |       7 |                                         0 |
+| Powered Rail        |     4 |       4 |                                         0 |
+| Dropper             |     3 |       3 |                                         0 |
+| Glass               |     3 |       3 |                                         0 |
+| Redstone Repeater   |     3 |       3 |                                         0 |
+| Redstone Torch      |     2 |       2 |                                         0 |
+| Sticky Piston       |     2 |       2 |                                         0 |
+| Hopper              |     1 |       1 |                                         0 |
+| Packed Ice          |     1 |       1 |                                         0 |
+| Redstone Comparator |     1 |       1 |                                         0 |
+| Sea Lantern         |     1 |       1 |                                         0 |
+| Slime Block         |     1 |       1 |                                         0 |
+| Spruce Trapdoor     |     1 |       1 |                                         0 |
++---------------------+-------+---------+-------------------------------------------+
+| Item                | Total | Missing |                                 Available |
++---------------------+-------+---------+-------------------------------------------+

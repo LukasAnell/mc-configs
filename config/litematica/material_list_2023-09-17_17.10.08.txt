@@ -1,0 +1,45 @@
++------------------------------+-------+---------+-----------+
+| Material List for placement 'bartering farm + collection'  |
++------------------------------+-------+---------+-----------+
+| Item                         | Total | Missing | Available |
++------------------------------+-------+---------+-----------+
+| Hopper                       |   800 |     800 |         0 |
+| Chest                        |   695 |     695 |         0 |
+| Cobblestone                  |   507 |     507 |         0 |
+| Glass                        |   421 |     421 |         0 |
+| Sand                         |   364 |     364 |         0 |
+| Observer                     |   318 |     318 |         0 |
+| Redstone Dust                |   284 |     284 |         0 |
+| Redstone Repeater            |   281 |     281 |         0 |
+| Redstone Comparator          |   213 |     213 |         0 |
+| Sticky Piston                |   166 |     166 |         0 |
+| Dropper                      |   162 |     162 |         0 |
+| Composter                    |   122 |     122 |         0 |
+| Block of Redstone            |   105 |     105 |         0 |
+| Note Block                   |   104 |     104 |         0 |
+| Blue Ice                     |    66 |      66 |         0 |
+| Stone Button                 |    66 |      66 |         0 |
+| Barrel                       |    58 |      58 |         0 |
+| Redstone Torch               |    57 |      57 |         0 |
+| Dispenser                    |    53 |      53 |         0 |
+| Jack o'Lantern               |    52 |      52 |         0 |
+| Piston                       |    52 |      52 |         0 |
+| White Shulker Box            |    52 |      52 |         0 |
+| Crafting Table               |     6 |       6 |         0 |
+| Ender Chest                  |     6 |       6 |        40 |
+| Iron Bars                    |     6 |       6 |         0 |
+| Honey Block                  |     3 |       3 |         0 |
+| Oak Leaves                   |     3 |       3 |         0 |
+| Slime Block                  |     3 |       3 |         0 |
+| Target                       |     3 |       3 |         0 |
+| Gray Glazed Terracotta       |     2 |       2 |         0 |
+| Light Gray Glazed Terracotta |     2 |       2 |         0 |
+| String                       |     2 |       2 |         0 |
+| Brewing Stand                |     1 |       1 |         0 |
+| Lava Bucket                  |     1 |       1 |         0 |
+| Lever                        |     1 |       1 |         0 |
+| Powered Rail                 |     1 |       1 |         0 |
+| Soul Soil                    |     1 |       1 |         0 |
++------------------------------+-------+---------+-----------+
+| Item                         | Total | Missing | Available |
++------------------------------+-------+---------+-----------+

@@ -1,0 +1,23 @@
++---------------------+-------+---------+----------------+
+| Material List for schematic 'Unnamed' (1 of 1 regions) |
++---------------------+-------+---------+----------------+
+| Item                | Total | Missing |      Available |
++---------------------+-------+---------+----------------+
+| End Stone           |   198 |     198 |              0 |
+| Redstone Dust       |    71 |      71 |              0 |
+| Hopper              |    68 |      68 |              0 |
+| Smooth Stone        |    66 |      66 |              0 |
+| Dropper             |    65 |      65 |              0 |
+| Beehive             |    64 |      64 |              0 |
+| Dispenser           |    64 |      64 |              0 |
+| Redstone Repeater   |    64 |      64 |              0 |
+| Cobblestone Wall    |    61 |      61 |              0 |
+| Dirt                |    31 |      31 |              0 |
+| Oxeye Daisy         |    31 |      31 |              0 |
+| Chest               |     4 |       4 |              0 |
+| Redstone Comparator |     3 |       3 |              0 |
+| Redstone Torch      |     3 |       3 |              0 |
+| Lever               |     1 |       1 |              0 |
++---------------------+-------+---------+----------------+
+| Item                | Total | Missing |      Available |
++---------------------+-------+---------+----------------+

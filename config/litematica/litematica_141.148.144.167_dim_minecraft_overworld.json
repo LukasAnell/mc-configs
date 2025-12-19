@@ -1,0 +1,253 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.19.2\\.minecraft\\schematics\\Mechanists_DigSort_v6.litematic",
+        "name": "Mechanists DigSort v6",
+        "origin": [
+          291456,
+          69,
+          951712
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 12648480,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Mechanists DigSort v6",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Mechanists DigSort v6",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "ChunkLoader",
+            "placement": {
+              "pos": [
+                4,
+                39,
+                21
+              ],
+              "name": "ChunkLoader",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.19.2\\.minecraft\\schematics\\Digsort things\\perfect_shulker_unloader.litematic",
+        "name": "perfect shulker unloader",
+        "origin": [
+          291411,
+          114,
+          951768
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16743004,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "perfect shulker unloader",
+            "placement": {
+              "pos": [
+                0,
+                3,
+                0
+              ],
+              "name": "perfect shulker unloader",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.19.2\\.minecraft\\schematics\\Digsort things\\shulker unloader with clock.litematic",
+        "name": "shulker unloader with clock",
+        "origin": [
+          291388,
+          102,
+          951749
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 5453690,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "shulker unloader with clock",
+            "placement": {
+              "pos": [
+                7,
+                4,
+                1
+              ],
+              "name": "shulker unloader with clock",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.19.2\\.minecraft\\schematics\\Digsort things\\shulker box separator.litematic",
+        "name": "shulker box separator",
+        "origin": [
+          291390,
+          110,
+          951724
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16748032,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "shulker box separator",
+            "placement": {
+              "pos": [
+                0,
+                10,
+                16
+              ],
+              "name": "shulker box separator",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.19.2\\.minecraft\\schematics\\Digsort things\\8xedloader.litematic",
+        "name": "Unnamed",
+        "origin": [
+          291385,
+          93,
+          951718
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "LEFT_RIGHT",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8329229,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                6,
+                5
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "60 bps de-elevator 3.0",
+    "current": "60 bps de-elevator 3.0",
+    "boxes": [
+      {
+        "pos1": [
+          12511,
+          319,
+          12297
+        ],
+        "pos2": [
+          12508,
+          -63,
+          12300
+        ],
+        "name": "60 bps de-elevator 3.0"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

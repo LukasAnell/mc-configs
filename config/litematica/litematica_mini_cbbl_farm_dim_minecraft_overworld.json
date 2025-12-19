@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 253,
+    "layer_above": -8,
+    "layer_below": 124,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "mini cobble farm",
+    "current": "mini cobble farm",
+    "boxes": [
+      {
+        "pos1": [
+          139,
+          3,
+          -130
+        ],
+        "pos2": [
+          127,
+          12,
+          -124
+        ],
+        "name": "mini cobble farm"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

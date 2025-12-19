@@ -1,0 +1,22 @@
++-------------------------+-------+---------+--------------------+
+| Material List for placement 'spawn peri world eater (scuffed)' |
++-------------------------+-------+---------+--------------------+
+| Item                    | Total | Missing |          Available |
++-------------------------+-------+---------+--------------------+
+| Slime Block             |  4101 |    4101 |                  0 |
+| Melon                   |  1416 |    1416 |                  0 |
+| Piston                  |  1095 |    1095 |                  0 |
+| White Concrete          |   775 |     775 |                  0 |
+| Observer                |   772 |     772 |                  0 |
+| Pink Concrete           |   733 |     733 |                  0 |
+| Block of Redstone       |   628 |     628 |                  0 |
+| Sticky Piston           |   524 |     524 |                  0 |
+| White Glazed Terracotta |   183 |     183 |                  0 |
+| Detector Rail           |   121 |     121 |                  0 |
+| Cobblestone Wall        |    60 |      60 |                  0 |
+| Sand                    |    60 |      60 |                  0 |
+| TNT                     |    60 |      60 |                  0 |
+| White Stained Glass     |     4 |       4 |                  0 |
++-------------------------+-------+---------+--------------------+
+| Item                    | Total | Missing |          Available |
++-------------------------+-------+---------+--------------------+

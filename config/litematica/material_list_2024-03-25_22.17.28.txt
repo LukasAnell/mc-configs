@@ -1,0 +1,22 @@
++------------------------------+-------+---------+-----------+
+| Material List for placement '3way_tb_by_desu'              |
++------------------------------+-------+---------+-----------+
+| Item                         | Total | Missing | Available |
++------------------------------+-------+---------+-----------+
+| Slime Block                  |   236 |     236 |         0 |
+| Observer                     |   138 |     138 |         0 |
+| Piston                       |    98 |      98 |         0 |
+| Sticky Piston                |    90 |      90 |         0 |
+| Honey Block                  |    36 |      36 |         0 |
+| Block of Redstone            |    16 |      16 |         0 |
+| Light Blue Glazed Terracotta |    15 |      15 |         0 |
+| Stone                        |    14 |      14 |         0 |
+| White Stained Glass          |    13 |      13 |         0 |
+| White Concrete               |    10 |      10 |         0 |
+| Cobblestone Wall             |     2 |       2 |         0 |
+| Dead Horn Coral Fan          |     2 |       2 |         0 |
+| Detector Rail                |     2 |       2 |         0 |
+| TNT                          |     2 |       2 |         0 |
++------------------------------+-------+---------+-----------+
+| Item                         | Total | Missing | Available |
++------------------------------+-------+---------+-----------+

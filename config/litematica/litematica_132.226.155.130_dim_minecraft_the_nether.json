@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 196,
+    "layer_above": 0,
+    "layer_below": 256,
+    "layer_range_min": 0,
+    "layer_range_max": 1,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "demi bolt spawnproof",
+    "current": "demi bolt spawnproof",
+    "boxes": [
+      {
+        "pos1": [
+          112,
+          129,
+          19
+        ],
+        "pos2": [
+          2084,
+          128,
+          23
+        ],
+        "name": "demi bolt spawnproof"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

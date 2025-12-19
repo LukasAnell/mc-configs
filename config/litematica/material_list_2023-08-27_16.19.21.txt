@@ -1,0 +1,22 @@
++---------------------+-------+---------+-----------------------------+
+| Material List for placement '6gt trencher 1.15 - 1.20 withMarkings' |
++---------------------+-------+---------+-----------------------------+
+| Item                | Total | Missing |                   Available |
++---------------------+-------+---------+-----------------------------+
+| Slime Block         |   115 |     115 |                           0 |
+| White Wool          |    54 |      54 |                           0 |
+| Stone               |    52 |      52 |                           0 |
+| Observer            |    39 |      39 |                           0 |
+| Piston              |    38 |      38 |                           0 |
+| White Stained Glass |    28 |      28 |                           0 |
+| Sticky Piston       |    25 |      25 |                           0 |
+| Block of Redstone   |    20 |      20 |                           0 |
+| Honey Block         |    14 |      14 |                           0 |
+| Stone Brick Wall    |     4 |       4 |                           0 |
+| White Concrete      |     3 |       3 |                           0 |
+| Dead Tube Coral Fan |     2 |       2 |                           0 |
+| Detector Rail       |     2 |       2 |                           0 |
+| TNT                 |     2 |       2 |                           0 |
++---------------------+-------+---------+-----------------------------+
+| Item                | Total | Missing |                   Available |
++---------------------+-------+---------+-----------------------------+

@@ -1,0 +1,26 @@
++---------------------+-------+---------+----------------------------------+
+| Material List for schematic '1overhead_3way_bb_by_Desu' (2 of 2 regions) |
++---------------------+-------+---------+----------------------------------+
+| Item                | Total | Missing |                        Available |
++---------------------+-------+---------+----------------------------------+
+| Slime Block         |   195 |     195 |                                0 |
+| Piston              |   125 |     125 |                                0 |
+| Observer            |    88 |      88 |                                0 |
+| Sticky Piston       |    85 |      85 |                                0 |
+| Honey Block         |    37 |      37 |                                0 |
+| Oak Leaves          |     9 |       9 |                                0 |
+| White Stained Glass |     9 |       9 |                                0 |
+| Block of Redstone   |     8 |       8 |                                0 |
+| Ancient Debris      |     5 |       5 |                                0 |
+| Note Block          |     5 |       5 |                                0 |
+| Oak Sign            |     4 |       4 |                                0 |
+| Cobblestone Wall    |     2 |       2 |                                0 |
+| Dead Tube Coral Fan |     2 |       2 |                                0 |
+| Smooth Stone Slab   |     2 |       2 |                                0 |
+| Stone Brick Stairs  |     2 |       2 |                                0 |
+| Detector Rail       |     1 |       1 |                                0 |
+| Redstone Lamp       |     1 |       1 |                                0 |
+| TNT                 |     1 |       1 |                                0 |
++---------------------+-------+---------+----------------------------------+
+| Item                | Total | Missing |                        Available |
++---------------------+-------+---------+----------------------------------+

@@ -1,0 +1,22 @@
++--------------------------+-------+---------+-----------------+
+| Material List for placement '276 14m AFK Debris World Eater' |
++--------------------------+-------+---------+-----------------+
+| Item                     | Total | Missing |       Available |
++--------------------------+-------+---------+-----------------+
+| Slime Block              |  6650 |    6649 |               0 |
+| Piston                   |  3372 |    3372 |               0 |
+| Observer                 |  2565 |    2565 |               0 |
+| Sticky Piston            |  1603 |    1603 |               0 |
+| Stone                    |  1495 |    1495 |               0 |
+| Oak Leaves               |  1176 |    1176 |               0 |
+| Block of Redstone        |  1139 |    1139 |               1 |
+| Honey Block              |   136 |     136 |               0 |
+| White Stained Glass Pane |    90 |      90 |               0 |
+| Dead Tube Coral Fan      |    45 |      45 |               0 |
+| Detector Rail            |    45 |      45 |               0 |
+| TNT                      |    45 |      45 |               0 |
+| White Glazed Terracotta  |    45 |      45 |               0 |
+| Note Block               |     2 |       2 |               0 |
++--------------------------+-------+---------+-----------------+
+| Item                     | Total | Missing |       Available |
++--------------------------+-------+---------+-----------------+

@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL_BELOW",
+    "axis": "y",
+    "layer_single": -49,
+    "layer_above": 1,
+    "layer_below": 206,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "simple squid farm ow",
+    "current": "simple squid farm ow",
+    "boxes": [
+      {
+        "pos1": [
+          1032,
+          64,
+          -949
+        ],
+        "pos2": [
+          1051,
+          47,
+          -964
+        ],
+        "name": "simple squid farm ow"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

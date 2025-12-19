@@ -1,0 +1,65 @@
++-------------------------------+-------+---------+------------------------------------------+
+| Material List for placement 'General Crafting System v2 (2.4 million per hour) - 51mayday' |
++-------------------------------+-------+---------+------------------------------------------+
+| Item                          | Total | Missing |                                Available |
++-------------------------------+-------+---------+------------------------------------------+
+| Blue Stained Glass            |  1287 |    1287 |                                        0 |
+| White Stained Glass           |   687 |     687 |                                        0 |
+| Packed Ice                    |    87 |      87 |                                       29 |
+| Redstone Dust                 |    85 |      85 |                                       47 |
+| Observer                      |    58 |      58 |                                     1004 |
+| White Concrete                |    49 |      49 |                                        0 |
+| Powered Rail                  |    46 |      46 |                                     1525 |
+| Red Stained Glass             |    43 |      43 |                                        0 |
+| Redstone Repeater             |    41 |      41 |                                        1 |
+| Hopper                        |    21 |      21 |                                        0 |
+| Redstone Comparator           |    20 |      20 |                                        1 |
+| Note Block                    |    14 |      14 |                                       48 |
+| Smooth Quartz Slab            |    14 |      14 |                                        0 |
+| Water Bucket                  |    13 |      13 |                                        3 |
+| Chest                         |    12 |      12 |                                        0 |
+| Block of Redstone             |    11 |      11 |                                     1480 |
+| Glow Lichen                   |    11 |      11 |                                        0 |
+| Redstone Torch                |    11 |      11 |                                       35 |
+| Dropper                       |    10 |      10 |                                        0 |
+| Honey Block                   |    10 |      10 |                                       52 |
+| Piston                        |    10 |      10 |                                      979 |
+| Red Concrete                  |    10 |      10 |                                        0 |
+| Barrel                        |     9 |       9 |                                        0 |
+| Jack o'Lantern                |     9 |       9 |                                        0 |
+| Sticky Piston                 |     9 |       9 |                                      945 |
+| Melon                         |     7 |       7 |                                        0 |
+| Quartz Slab                   |     7 |       7 |                                        0 |
+| Slime Block                   |     7 |       7 |                                      814 |
+| Glass                         |     6 |       6 |                                      311 |
+| Composter                     |     5 |       5 |                                        0 |
+| Dark Oak Sign                 |     5 |       5 |                                        0 |
+| Stone Button                  |     5 |       5 |                                        0 |
+| Powder Snow Bucket            |     4 |       4 |                                        0 |
+| Ender Chest                   |     3 |       3 |                                       45 |
+| Iron Trapdoor                 |     3 |       3 |                                       18 |
+| Oak Sign                      |     3 |       3 |                                        0 |
+| Redstone Lamp                 |     3 |       3 |                                        5 |
+| Soul Sand                     |     3 |       3 |                                        0 |
+| White Shulker Box             |     3 |       3 |                                        0 |
+| Activator Rail                |     2 |       2 |                                        0 |
+| Iron Door                     |     2 |       2 |                                        0 |
+| Quartz Stairs                 |     2 |       2 |                                        0 |
+| Spruce Fence Gate             |     2 |       2 |                                        0 |
+| Trapped Chest                 |     2 |       2 |                                        0 |
+| White Stained Glass Pane      |     2 |       2 |                                        0 |
+| Block of Gold                 |     1 |       1 |                                        0 |
+| Crafting Table                |     1 |       1 |                                        0 |
+| Detector Rail                 |     1 |       1 |                                       53 |
+| Dispenser                     |     1 |       1 |                                        0 |
+| Heavy Weighted Pressure Plate |     1 |       1 |                                        0 |
+| Large Amethyst Bud            |     1 |       1 |                                        0 |
+| Lectern                       |     1 |       1 |                                        0 |
+| Smooth Quartz Block           |     1 |       1 |                                        0 |
+| Smooth Quartz Stairs          |     1 |       1 |                                        0 |
+| Soul Soil                     |     1 |       1 |                                        0 |
+| Stone Brick Wall              |     1 |       1 |                                        0 |
+| White Glazed Terracotta       |     1 |       1 |                                        0 |
++-------------------------------+-------+---------+------------------------------------------+
+| Item                          | Total | Missing |                                Available |
++-------------------------------+-------+---------+------------------------------------------+

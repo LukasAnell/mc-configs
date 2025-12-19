@@ -1,0 +1,26 @@
++---------------------+-------+---------+-----------------------------------------------+
+| Material List for schematic 'Kahyxen item based chunk loader nether' (1 of 1 regions) |
++---------------------+-------+---------+-----------------------------------------------+
+| Item                | Total | Missing |                                     Available |
++---------------------+-------+---------+-----------------------------------------------+
+| Black Stained Glass |    17 |      17 |                                             0 |
+| Pink Stained Glass  |    16 |      16 |                                             0 |
+| Obsidian            |    15 |      15 |                                             0 |
+| Smooth Stone        |    12 |      12 |                                             0 |
+| Observer            |     6 |       6 |                                             0 |
+| Dropper             |     5 |       5 |                                             0 |
+| Glass               |     4 |       4 |                                             0 |
+| Redstone Repeater   |     4 |       4 |                                             0 |
+| Sticky Piston       |     4 |       4 |                                             0 |
+| Hopper              |     3 |       3 |                                             0 |
+| Powered Rail        |     2 |       2 |                                             0 |
+| Redstone Comparator |     2 |       2 |                                             0 |
+| Redstone Dust       |     2 |       2 |                                             7 |
+| Block of Redstone   |     1 |       1 |                                             0 |
+| Packed Ice          |     1 |       1 |                                             0 |
+| Redstone Torch      |     1 |       1 |                                             0 |
+| Slime Block         |     1 |       1 |                                             0 |
+| Spruce Trapdoor     |     1 |       1 |                                             0 |
++---------------------+-------+---------+-----------------------------------------------+
+| Item                | Total | Missing |                                     Available |
++---------------------+-------+---------+-----------------------------------------------+

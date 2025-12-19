@@ -1,0 +1,218 @@
++----------------------------------+-------+---------+-----------+
+| Material List for placement 'CartMIS V3 + Hybrid Storage'      |
++----------------------------------+-------+---------+-----------+
+| Item                             | Total | Missing | Available |
++----------------------------------+-------+---------+-----------+
+| Glass                            |  6070 |    6070 |         0 |
+| Hopper                           |  4258 |    4258 |         0 |
+| Chest                            |  2601 |    2601 |         0 |
+| White Concrete                   |  2461 |    2461 |         0 |
+| Observer                         |  2256 |    2256 |         0 |
+| Powered Rail                     |  2005 |    2005 |         0 |
+| Redstone Torch                   |  1991 |    1991 |         0 |
+| Dropper                          |  1226 |    1226 |         0 |
+| Sticky Piston                    |  1191 |    1191 |         0 |
+| Quartz Stairs                    |  1110 |    1110 |         0 |
+| Note Block                       |  1102 |    1102 |         0 |
+| Cyan Concrete                    |  1096 |    1096 |         0 |
+| Redstone Dust                    |  1001 |    1001 |         0 |
+| Quartz Slab                      |   965 |     965 |         0 |
+| Composter                        |   910 |     910 |         0 |
+| Redstone Comparator              |   807 |     807 |         0 |
+| Lever                            |   706 |     706 |         0 |
+| Polished Blackstone Bricks       |   550 |     550 |         0 |
+| Soul Soil                        |   550 |     550 |         0 |
+| Oak Fence Gate                   |   524 |     524 |         0 |
+| Scaffolding                      |   502 |     502 |         0 |
+| Detector Rail                    |   499 |     499 |         0 |
+| Piston                           |   435 |     435 |         0 |
+| Packed Ice                       |   429 |     429 |         0 |
+| Soul Sand                        |   384 |     384 |         0 |
+| Block of Redstone                |   338 |     338 |         0 |
+| Redstone Repeater                |   302 |     302 |         0 |
+| Block of Quartz                  |   300 |     300 |         0 |
+| Quartz Bricks                    |   298 |     298 |         0 |
+| Spruce Stairs                    |   282 |     282 |         0 |
+| Jack o'Lantern                   |   275 |     275 |         0 |
+| Smooth Stone Slab                |   275 |     275 |         0 |
+| Light Blue Concrete              |   270 |     270 |         0 |
+| Red Stained Glass                |   262 |     262 |         0 |
+| Cauldron                         |   254 |     254 |         0 |
+| Cobblestone Wall                 |   252 |     252 |         0 |
+| Iron Trapdoor                    |   251 |     251 |         0 |
+| Rail                             |   237 |     237 |         0 |
+| Dispenser                        |   235 |     235 |         0 |
+| Redstone Lamp                    |   221 |     221 |         0 |
+| Shulker Box                      |   217 |     217 |         0 |
+| White Stained Glass              |   207 |     207 |         0 |
+| Water Bucket                     |   196 |     196 |         0 |
+| Quartz Pillar                    |   166 |     166 |         0 |
+| Obsidian                         |   123 |     123 |         1 |
+| Chiseled Quartz Block            |   120 |     120 |         0 |
+| Smooth Quartz Block              |   120 |     120 |         0 |
+| Gray Stained Glass               |    88 |      88 |         0 |
+| Target                           |    66 |      66 |         0 |
+| Glow Lichen                      |    63 |      63 |         0 |
+| Activator Rail                   |    59 |      59 |         0 |
+| Light Gray Stained Glass         |    55 |      55 |         0 |
+| Polished Blackstone Brick Slab   |    52 |      52 |         0 |
+| Smooth Quartz Slab               |    42 |      42 |         0 |
+| Block of Emerald                 |    40 |      40 |         0 |
+| Gray Concrete                    |    40 |      40 |         1 |
+| Spruce Trapdoor                  |    40 |      40 |         0 |
+| Cobblestone Stairs               |    38 |      38 |         0 |
+| Sea Lantern                      |    38 |      38 |         0 |
+| End Rod                          |    37 |      37 |         0 |
+| Torch                            |    27 |      27 |         0 |
+| Slime Block                      |    23 |      23 |         0 |
+| Ladder                           |    19 |      19 |         0 |
+| Purple Concrete                  |    19 |      19 |         0 |
+| Honey Block                      |    18 |      18 |         0 |
+| Yellow Concrete                  |    14 |      14 |         0 |
+| Red Concrete                     |    13 |      13 |         0 |
+| Snow Block                       |    13 |      13 |         0 |
+| Birch Sign                       |    12 |      12 |         0 |
+| Light Gray Concrete              |    11 |      11 |         0 |
+| Magenta Concrete                 |    11 |      11 |         0 |
+| Cyan Stained Glass               |    10 |      10 |         0 |
+| White Banner                     |    10 |      10 |         0 |
+| Carved Pumpkin                   |     7 |       7 |         0 |
+| Stone Brick Wall                 |     7 |       7 |         0 |
+| Stone Brick Stairs               |     6 |       6 |         0 |
+| Barrel                           |     5 |       5 |         0 |
+| Lime Concrete                    |     5 |       5 |         0 |
+| Snow                             |     5 |       5 |         0 |
+| Polished Blackstone Brick Stairs |     4 |       4 |         0 |
+| Dirt                             |     3 |       3 |         0 |
+| Heavy Weighted Pressure Plate    |     3 |       3 |         0 |
+| Oak Sign                         |     3 |       3 |         0 |
+| Trapped Chest                    |     3 |       3 |         0 |
+| Warped Trapdoor                  |     3 |       3 |         0 |
+| Cobweb                           |     2 |       2 |         0 |
+| Ender Chest                      |     2 |       2 |         0 |
+| Lantern                          |     2 |       2 |         0 |
+| Podzol                           |     2 |       2 |         0 |
+| Sand                             |     2 |       2 |         0 |
+| Acacia Log                       |     1 |       1 |         0 |
+| Acacia Planks                    |     1 |       1 |         0 |
+| Andesite                         |     1 |       1 |         0 |
+| Bamboo Planks                    |     1 |       1 |         0 |
+| Basalt                           |     1 |       1 |         0 |
+| Birch Log                        |     1 |       1 |         0 |
+| Birch Planks                     |     1 |       1 |         0 |
+| Birch Sapling                    |     1 |       1 |         0 |
+| Black Concrete                   |     1 |       1 |         0 |
+| Black Concrete Powder            |     1 |       1 |         0 |
+| Black Stained Glass Pane         |     1 |       1 |         0 |
+| Blackstone                       |     1 |       1 |         0 |
+| Block of Coal                    |     1 |       1 |         0 |
+| Block of Gold                    |     1 |       1 |         0 |
+| Block of Iron                    |     1 |       1 |         0 |
+| Block of Lapis Lazuli            |     1 |       1 |         0 |
+| Blue Concrete                    |     1 |       1 |         0 |
+| Blue Concrete Powder             |     1 |       1 |         0 |
+| Blue Glazed Terracotta           |     1 |       1 |         0 |
+| Blue Ice                         |     1 |       1 |         0 |
+| Bone Block                       |     1 |       1 |         0 |
+| Brewing Stand                    |     1 |       1 |         0 |
+| Brown Concrete                   |     1 |       1 |         0 |
+| Brown Concrete Powder            |     1 |       1 |         0 |
+| Cactus                           |     1 |       1 |         0 |
+| Cake                             |     1 |       1 |         0 |
+| Campfire                         |     1 |       1 |         0 |
+| Chain                            |     1 |       1 |         0 |
+| Cherry Planks                    |     1 |       1 |         0 |
+| Chiseled Bookshelf               |     1 |       1 |         0 |
+| Coal Ore                         |     1 |       1 |         0 |
+| Coarse Dirt                      |     1 |       1 |         0 |
+| Cobbled Deepslate                |     1 |       1 |         0 |
+| Cobblestone                      |     1 |       1 |         0 |
+| Crafting Table                   |     1 |       1 |         0 |
+| Crimson Nylium                   |     1 |       1 |         0 |
+| Crimson Planks                   |     1 |       1 |         0 |
+| Crimson Stem                     |     1 |       1 |         0 |
+| Crying Obsidian                  |     1 |       1 |         0 |
+| Cyan Concrete Powder             |     1 |       1 |         0 |
+| Dark Oak Log                     |     1 |       1 |         0 |
+| Dark Oak Planks                  |     1 |       1 |         0 |
+| Dead Tube Coral Block            |     1 |       1 |         0 |
+| Deepslate                        |     1 |       1 |         0 |
+| Deepslate Bricks                 |     1 |       1 |         0 |
+| Diorite                          |     1 |       1 |         0 |
+| Flower Pot                       |     1 |       1 |         0 |
+| Glowstone                        |     1 |       1 |         0 |
+| Granite                          |     1 |       1 |         0 |
+| Grass Block                      |     1 |       1 |         0 |
+| Gravel                           |     1 |       1 |         0 |
+| Gray Concrete Powder             |     1 |       1 |         0 |
+| Gray Stained Glass Pane          |     1 |       1 |         0 |
+| Green Concrete                   |     1 |       1 |         0 |
+| Green Concrete Powder            |     1 |       1 |         0 |
+| Grindstone                       |     1 |       1 |         0 |
+| Hay Bale                         |     1 |       1 |         0 |
+| Honeycomb Block                  |     1 |       1 |         0 |
+| Ice                              |     1 |       1 |         0 |
+| Iron Bars                        |     1 |       1 |         0 |
+| Iron Door                        |     1 |       1 |         0 |
+| Jukebox                          |     1 |       1 |         0 |
+| Jungle Log                       |     1 |       1 |         0 |
+| Jungle Planks                    |     1 |       1 |         0 |
+| Light Blue Concrete Powder       |     1 |       1 |         0 |
+| Light Gray Concrete Powder       |     1 |       1 |         0 |
+| Lime Concrete Powder             |     1 |       1 |         0 |
+| Magenta Concrete Powder          |     1 |       1 |         0 |
+| Magma Block                      |     1 |       1 |         0 |
+| Mangrove Log                     |     1 |       1 |         0 |
+| Mangrove Planks                  |     1 |       1 |         0 |
+| Mangrove Roots                   |     1 |       1 |         0 |
+| Melon                            |     1 |       1 |         0 |
+| Moss Block                       |     1 |       1 |         0 |
+| Moss Carpet                      |     1 |       1 |         0 |
+| Mud                              |     1 |       1 |         0 |
+| Muddy Mangrove Roots             |     1 |       1 |         0 |
+| Mycelium                         |     1 |       1 |         0 |
+| Nether Bricks                    |     1 |       1 |         0 |
+| Netherrack                       |     1 |       1 |         0 |
+| Oak Log                          |     1 |       1 |         0 |
+| Oak Planks                       |     1 |       1 |         0 |
+| Oak Trapdoor                     |     1 |       1 |         0 |
+| Ochre Froglight                  |     1 |       1 |         0 |
+| Orange Concrete                  |     1 |       1 |         0 |
+| Orange Concrete Powder           |     1 |       1 |         0 |
+| Pearlescent Froglight            |     1 |       1 |         0 |
+| Pink Concrete                    |     1 |       1 |         0 |
+| Pink Concrete Powder             |     1 |       1 |         0 |
+| Polished Andesite                |     1 |       1 |         0 |
+| Prismarine                       |     1 |       1 |         0 |
+| Pumpkin                          |     1 |       1 |         0 |
+| Purple Concrete Powder           |     1 |       1 |         0 |
+| Purple Wool                      |     1 |       1 |         0 |
+| Red Concrete Powder              |     1 |       1 |         0 |
+| Red Sand                         |     1 |       1 |         0 |
+| Rooted Dirt                      |     1 |       1 |         0 |
+| Sandstone                        |     1 |       1 |         0 |
+| Sculk                            |     1 |       1 |         0 |
+| Sculk Catalyst                   |     1 |       1 |         0 |
+| Sculk Vein                       |     1 |       1 |         0 |
+| Shroomlight                      |     1 |       1 |         0 |
+| Soul Campfire                    |     1 |       1 |         0 |
+| Soul Lantern                     |     1 |       1 |         0 |
+| Soul Torch                       |     1 |       1 |         0 |
+| Spruce Log                       |     1 |       1 |         0 |
+| Spruce Planks                    |     1 |       1 |         0 |
+| Stone                            |     1 |       1 |         0 |
+| Stone Bricks                     |     1 |       1 |         0 |
+| Stone Button                     |     1 |       1 |         0 |
+| String                           |     1 |       1 |         0 |
+| Tinted Glass                     |     1 |       1 |         0 |
+| Tuff                             |     1 |       1 |         0 |
+| Verdant Froglight                |     1 |       1 |         0 |
+| Warped Nylium                    |     1 |       1 |         0 |
+| Warped Planks                    |     1 |       1 |         0 |
+| Warped Stem                      |     1 |       1 |         0 |
+| Waxed Block of Copper            |     1 |       1 |         0 |
+| White Concrete Powder            |     1 |       1 |         0 |
+| Yellow Concrete Powder           |     1 |       1 |         0 |
++----------------------------------+-------+---------+-----------+
+| Item                             | Total | Missing | Available |
++----------------------------------+-------+---------+-----------+

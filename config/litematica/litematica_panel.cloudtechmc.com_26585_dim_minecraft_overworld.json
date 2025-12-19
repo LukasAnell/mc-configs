@@ -1,0 +1,124 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.17.1 Updated\\.minecraft\\schematics\\26k moss farm half.litematic",
+        "name": "26k moss farm half",
+        "origin": [
+          79973,
+          70,
+          -122
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "26k moss farm half",
+            "placement": {
+              "pos": [
+                26,
+                8,
+                17
+              ],
+              "name": "26k moss farm half",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.17.1 Updated\\.minecraft\\schematics\\ncolyer quick ntf.litematic",
+        "name": "ncolyer quick ntf",
+        "origin": [
+          79997,
+          73,
+          -106
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 21386,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "ncolyer quick ntf",
+            "placement": {
+              "pos": [
+                0,
+                27,
+                10
+              ],
+              "name": "ncolyer quick ntf",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 253,
+    "layer_above": -8,
+    "layer_below": 124,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "piston pusher large updated",
+    "current": "piston pusher large updated",
+    "boxes": [
+      {
+        "pos1": [
+          -262,
+          10,
+          -287
+        ],
+        "pos2": [
+          -262,
+          10,
+          -287
+        ],
+        "name": "piston pusher large updated"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

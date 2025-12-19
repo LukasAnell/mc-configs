@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 92,
+    "layer_above": 19,
+    "layer_below": 214,
+    "layer_range_min": 92,
+    "layer_range_max": 97,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "obsidian chunk",
+    "current": "obsidian chunk",
+    "boxes": [
+      {
+        "pos1": [
+          -528,
+          -64,
+          -416
+        ],
+        "pos2": [
+          -513,
+          -64,
+          -401
+        ],
+        "name": "obsidian chunk"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

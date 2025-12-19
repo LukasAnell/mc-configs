@@ -1,0 +1,42 @@
+{
+  "data_storage": {
+    "distance_pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed": 1852561702
+  },
+  "shapes": {
+    "shapes": [
+      {
+        "type": "circle",
+        "color": 1613803696,
+        "enabled": true,
+        "display_name": "Circle / Cylinder",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "corner",
+        "combine_quads": false,
+        "center": [
+          -1472.0,
+          31.0,
+          1680.0
+        ],
+        "main_axis": "UP",
+        "radius": 50.0,
+        "height": 32
+      }
+    ]
+  }
+}

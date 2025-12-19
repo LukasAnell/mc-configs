@@ -1,0 +1,174 @@
+{
+  "Generic": {
+    "carpetCtrlQCraftingEnabledOnServer": false,
+    "clientCraftingFixOn1.12": true,
+    "craftingRenderRecipeItems": false,
+    "debugMessages": false,
+    "massCraftInhibitMidUpdates": true,
+    "massCraftInterval": 1,
+    "massCraftIterations": 36,
+    "massCraftSwapsOnly": false,
+    "massCraftUseRecipeBook": true,
+    "massCraftHold": false,
+    "modMainToggle": true,
+    "packetRateLimit": 4,
+    "rateLimitClickPackets": false,
+    "craftingRecipesSaveToFile": true,
+    "craftingRecipesSaveFileIsGlobal": false,
+    "reverseScrollDirectionSingle": false,
+    "reverseScrollDirectionStacks": false,
+    "useSlotPositionAwareScrollDirection": false,
+    "useRecipeCaching": true,
+    "villagerTradeUseGlobalFavorites": false,
+    "villagerTradeListRememberScrollPosition": false,
+    "sortInventoryToggle": false,
+    "sortAssumeEmptyBoxStacks": false,
+    "sortShulkerBoxesAtEnd": true,
+    "sortShulkerBoxesInverted": false,
+    "sortBundlesAtEnd": true,
+    "sortBundlesInverted": false,
+    "sortTopPriorityInventory": [
+      "minecraft:diamond_sword",
+      "minecraft:diamond_pickaxe",
+      "minecraft:diamond_axe",
+      "minecraft:diamond_shovel",
+      "minecraft:diamond_hoe",
+      "minecraft:netherite_sword",
+      "minecraft:netherite_pickaxe",
+      "minecraft:netherite_axe",
+      "minecraft:netherite_shovel",
+      "minecraft:netherite_hoe"
+    ],
+    "sortBottomPriorityInventory": [],
+    "sortMethodDefault": "category_name",
+    "sortCategoryOrder": [
+      "building_blocks",
+      "colored_blocks",
+      "natural_blocks",
+      "functional_blocks",
+      "redstone_blocks",
+      "tools_and_utilities",
+      "combat",
+      "food_and_drinks",
+      "ingredients",
+      "spawn_eggs",
+      "op_blocks",
+      "other"
+    ]
+  },
+  "Hotkeys": {
+    "openConfigGui": {
+      "keys": "LEFT_ALT,I"
+    },
+    "toggleModOnOff": {
+      "keys": ""
+    },
+    "craftEverything": {
+      "keys": "KP_6"
+    },
+    "dropAllMatching": {
+      "keys": ""
+    },
+    "massCraft": {
+      "keys": "KP_3"
+    },
+    "massCraftToggle": {
+      "keys": ""
+    },
+    "moveCraftResults": {
+      "keys": ""
+    },
+    "recipeView": {
+      "keys": "KP_5"
+    },
+    "slotDebug": {
+      "keys": ""
+    },
+    "storeRecipe": {
+      "keys": "KP_4"
+    },
+    "throwCraftResults": {
+      "keys": ""
+    },
+    "villagerTradeFavorites": {
+      "keys": ""
+    },
+    "modifierMoveEverything": {
+      "keys": ""
+    },
+    "modifierMoveMatching": {
+      "keys": ""
+    },
+    "modifierMoveStack": {
+      "keys": ""
+    },
+    "modifierToggleVillagerGlobalFavorite": {
+      "keys": ""
+    },
+    "keyDragMoveStacks": {
+      "keys": ""
+    },
+    "keyDragMoveLeaveOne": {
+      "keys": ""
+    },
+    "keyDragMoveMatching": {
+      "keys": ""
+    },
+    "keyDragMoveOne": {
+      "keys": ""
+    },
+    "keyDragDropLeaveOne": {
+      "keys": ""
+    },
+    "keyDragDropSingle": {
+      "keys": ""
+    },
+    "keyDragDropStacks": {
+      "keys": ""
+    },
+    "keyMoveEverything": {
+      "keys": ""
+    },
+    "wsMoveDownLeaveOne": {
+      "keys": ""
+    },
+    "wsMoveDownMatching": {
+      "keys": ""
+    },
+    "wsMoveDownSingle": {
+      "keys": ""
+    },
+    "wsMoveDownStacks": {
+      "keys": ""
+    },
+    "wsMoveUpLeaveOne": {
+      "keys": ""
+    },
+    "wsMoveUpMatching": {
+      "keys": ""
+    },
+    "wsMoveUpSingle": {
+      "keys": ""
+    },
+    "wsMoveUpStacks": {
+      "keys": ""
+    },
+    "sortInventory": {
+      "keys": "R"
+    }
+  },
+  "Toggles": {
+    "enableCraftingFeatures": true,
+    "enableDropkeyDropMatching": false,
+    "enableRightClickCraftingOneStack": false,
+    "enableScrollingEverything": false,
+    "enableScrollingMatchingStacks": false,
+    "enableScrollingSingle": false,
+    "enableScrollingStacks": false,
+    "enableScrollingStacksFallback": false,
+    "enableScrollingVillager": false,
+    "enableShiftDropItems": true,
+    "enableShiftPlaceItems": false,
+    "enableVillagerTradeFeatures": false
+  }
+}

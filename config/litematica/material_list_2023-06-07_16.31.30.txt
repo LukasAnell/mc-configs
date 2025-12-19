@@ -1,0 +1,64 @@
++---------------------------+-------+---------+-----------+
+| Material List for placement 'azalea farm full'          |
++---------------------------+-------+---------+-----------+
+| Item                      | Total | Missing | Available |
++---------------------------+-------+---------+-----------+
+| Black Stained Glass       |   236 |     236 |         0 |
+| Obsidian                  |   196 |     196 |         0 |
+| Observer                  |   154 |     154 |         0 |
+| Oak Log                   |   123 |     123 |         0 |
+| Sticky Piston             |    88 |      88 |         0 |
+| Scaffolding               |    87 |      87 |         0 |
+| Polished Deepslate        |    82 |      82 |         0 |
+| Piston                    |    79 |      79 |         0 |
+| Hopper                    |    74 |      74 |         0 |
+| Redstone Repeater         |    53 |      53 |         0 |
+| Note Block                |    52 |      52 |         0 |
+| Block of Redstone         |    44 |      44 |         0 |
+| Blue Ice                  |    38 |      38 |         0 |
+| Azalea Leaves             |    37 |      37 |         0 |
+| Composter                 |    34 |      34 |         0 |
+| Chest                     |    30 |      30 |         0 |
+| Dropper                   |    25 |      25 |         0 |
+| Slime Block               |    24 |      24 |         0 |
+| Gray Concrete             |    22 |      22 |         0 |
+| Lime Glazed Terracotta    |    21 |      21 |         0 |
+| Redstone Comparator       |    21 |      21 |         0 |
+| Stripped Warped Hyphae    |    21 |      21 |         0 |
+| Redstone Dust             |    20 |      20 |         0 |
+| Glass                     |    17 |      17 |         0 |
+| Flowering Azalea Leaves   |    14 |      14 |         0 |
+| String                    |    11 |      11 |         0 |
+| Honey Block               |    10 |      10 |         0 |
+| Redstone Torch            |    10 |      10 |         0 |
+| Iron Trapdoor             |     9 |       9 |         0 |
+| Packed Ice                |     9 |       9 |         0 |
+| Ender Chest               |     8 |       8 |        64 |
+| Dispenser                 |     7 |       7 |         0 |
+| Water Bucket              |     7 |       7 |         1 |
+| Powered Rail              |     6 |       6 |         0 |
+| Gray Stained Glass        |     4 |       4 |         0 |
+| Jack o'Lantern            |     4 |       4 |         0 |
+| Smooth Stone Slab         |     4 |       4 |         0 |
+| White Shulker Box         |     4 |       4 |         0 |
+| Iron Door                 |     3 |       3 |         0 |
+| Polished Deepslate Stairs |     3 |       3 |         0 |
+| Sand                      |     3 |       3 |         0 |
+| Black Stained Glass Pane  |     2 |       2 |         0 |
+| Moss Block                |     2 |       2 |         0 |
+| Oak Sign                  |     2 |       2 |         0 |
+| Smooth Quartz Slab        |     2 |       2 |         0 |
+| Smooth Quartz Stairs      |     2 |       2 |         0 |
+| Azalea                    |     1 |       1 |         0 |
+| Cactus                    |     1 |       1 |         0 |
+| Dead Tube Coral Fan       |     1 |       1 |         0 |
+| Lava Bucket               |     1 |       1 |         0 |
+| Lever                     |     1 |       1 |         0 |
+| Polished Deepslate Slab   |     1 |       1 |         0 |
+| Red Stained Glass         |     1 |       1 |         0 |
+| Rooted Dirt               |     1 |       1 |         0 |
+| TNT                       |     1 |       1 |         0 |
+| Tall Grass                |     1 |       1 |         0 |
++---------------------------+-------+---------+-----------+
+| Item                      | Total | Missing | Available |
++---------------------------+-------+---------+-----------+

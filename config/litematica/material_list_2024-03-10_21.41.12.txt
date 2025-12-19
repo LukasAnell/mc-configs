@@ -1,0 +1,60 @@
++-------------------------------+-------+---------+---------------------------------+
+| Material List for placement 'Stacking Bad Omen Bank by Ajvej and Bread.litematic' |
++-------------------------------+-------+---------+---------------------------------+
+| Item                          | Total | Missing |                       Available |
++-------------------------------+-------+---------+---------------------------------+
+| White Stained Glass           |   905 |     905 |                               0 |
+| Gray Stained Glass            |   439 |     439 |                               0 |
+| Block of Emerald              |   188 |     188 |                               0 |
+| Deepslate Tile Wall           |   103 |     103 |                               0 |
+| Gray Concrete                 |    75 |      75 |                               0 |
+| Obsidian                      |    69 |      69 |                               0 |
+| Smooth Quartz Slab            |    69 |      69 |                               0 |
+| Yellow Stained Glass          |    60 |      60 |                               0 |
+| Observer                      |    49 |      49 |                               0 |
+| Powered Rail                  |    49 |      49 |                               0 |
+| Redstone Repeater             |    48 |      48 |                               0 |
+| Redstone Dust                 |    39 |      39 |                               0 |
+| Sticky Piston                 |    30 |      30 |                               0 |
+| Rail                          |    24 |      24 |                               0 |
+| Slime Block                   |    23 |      23 |                               0 |
+| Dark Oak Sign                 |    20 |      20 |                               0 |
+| Scaffolding                   |    19 |      19 |                               0 |
+| Piston                        |    18 |      18 |                               0 |
+| Dark Oak Trapdoor             |    13 |      13 |                               0 |
+| Redstone Comparator           |    13 |      13 |                               0 |
+| Block of Redstone             |    12 |      12 |                               0 |
+| Lever                         |    12 |      12 |                               0 |
+| Hopper                        |     9 |       9 |                               0 |
+| Composter                     |     8 |       8 |                               0 |
+| Redstone Torch                |     8 |       8 |                               0 |
+| Stone Brick Stairs            |     7 |       7 |                               0 |
+| Iron Trapdoor                 |     6 |       6 |                               0 |
+| Note Block                    |     6 |       6 |                               0 |
+| Water Bucket                  |     6 |       6 |                               1 |
+| Birch Sign                    |     5 |       5 |                               0 |
+| Soul Sand                     |     5 |       5 |                               0 |
+| Glass Pane                    |     4 |       4 |                               0 |
+| Iron Door                     |     4 |       4 |                               0 |
+| Wither Rose                   |     4 |       4 |                               0 |
+| Chest                         |     3 |       3 |                               0 |
+| Detector Rail                 |     3 |       3 |                               0 |
+| Light Weighted Pressure Plate |     3 |       3 |                               0 |
+| Target                        |     3 |       3 |                               0 |
+| Beacon                        |     2 |       2 |                               0 |
+| Cauldron                      |     2 |       2 |                               0 |
+| Dispenser                     |     2 |       2 |                               0 |
+| Dropper                       |     2 |       2 |                               0 |
+| Pumpkin                       |     2 |       2 |                               0 |
+| Sea Lantern                   |     2 |       2 |                               0 |
+| Turtle Egg                    |     2 |       2 |                               0 |
+| Activator Rail                |     1 |       1 |                               0 |
+| Barrel                        |     1 |       1 |                               0 |
+| Lava Bucket                   |     1 |       1 |                               0 |
+| Oak Button                    |     1 |       1 |                               0 |
+| Redstone Lamp                 |     1 |       1 |                               0 |
+| Repeating Command Block       |     1 |       1 |                               0 |
+| String                        |     1 |       1 |                               0 |
++-------------------------------+-------+---------+---------------------------------+
+| Item                          | Total | Missing |                       Available |
++-------------------------------+-------+---------+---------------------------------+

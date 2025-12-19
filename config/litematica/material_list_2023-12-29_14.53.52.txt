@@ -1,0 +1,67 @@
++----------------------------+---------+---------+-----------+
+| Area Analysis for selection 'Unnamed'                      |
++----------------------------+---------+---------+-----------+
+| Item                       |   Total | Missing | Available |
++----------------------------+---------+---------+-----------+
+| Deepslate                  | 3693879 |       0 |         0 |
+| Stone                      | 2399813 |       0 |         0 |
+| Sandstone                  |  494343 |       0 |         0 |
+| Tuff                       |  307216 |       0 |         0 |
+| Andesite                   |  280393 |       0 |         0 |
+| Diorite                    |  265379 |       0 |         0 |
+| Granite                    |  252361 |       0 |         0 |
+| Gravel                     |  118318 |       0 |         0 |
+| Dirt                       |   68358 |       0 |         0 |
+| Dripstone Block            |   45714 |       0 |         0 |
+| Water Bucket               |   36856 |       0 |         1 |
+| Copper Ore                 |   36310 |       0 |         0 |
+| Sand                       |   27204 |       0 |         0 |
+| Coal Ore                   |   18234 |       0 |         0 |
+| Iron Ore                   |   13788 |       0 |         0 |
+| Pointed Dripstone          |   11996 |       0 |         0 |
+| Deepslate Redstone Ore     |    8559 |       0 |         0 |
+| Lava Bucket                |    8538 |       0 |         0 |
+| Deepslate Iron Ore         |    8156 |       0 |         0 |
+| Deepslate Gold Ore         |    6138 |       0 |         0 |
+| Deepslate Copper Ore       |    4550 |       0 |         0 |
+| Smooth Basalt              |    4301 |       0 |         0 |
+| Deepslate Diamond Ore      |    3894 |       0 |         0 |
+| Deepslate Lapis Lazuli Ore |    3871 |       0 |         0 |
+| Calcite                    |    3314 |       0 |         0 |
+| Lapis Lazuli Ore           |    2826 |       0 |         0 |
+| Block of Amethyst          |    2540 |       0 |         0 |
+| Block of Emerald           |    2340 |       0 |         0 |
+| Gold Ore                   |    1168 |       0 |         0 |
+| Redstone Ore               |     851 |       0 |         0 |
+| Packed Ice                 |     822 |       0 |         0 |
+| Glow Lichen                |     758 |       0 |         0 |
+| Cobblestone                |     627 |       0 |         0 |
+| Bone Block                 |     555 |       0 |         0 |
+| Glass                      |     465 |       0 |         0 |
+| Grass Block                |     434 |       0 |         0 |
+| Budding Amethyst           |     225 |       0 |         0 |
+| Mossy Cobblestone          |     186 |       0 |         0 |
+| Deepslate Coal Ore         |     176 |       0 |         0 |
+| Amethyst Cluster           |     171 |       0 |         0 |
+| Magma Block                |     159 |       0 |         0 |
+| Powered Rail               |      99 |       0 |         0 |
+| Cut Sandstone              |      97 |       0 |         0 |
+| Diamond Ore                |      95 |       0 |         0 |
+| Clay                       |      80 |       0 |         0 |
+| Block of Raw Copper        |      68 |       0 |         0 |
+| Beacon                     |      45 |       0 |         0 |
+| Block of Raw Iron          |      38 |       0 |         0 |
+| Oak Planks                 |      25 |       0 |         0 |
+| Obsidian                   |      20 |       0 |         0 |
+| Chiseled Sandstone         |      16 |       0 |         0 |
+| Oak Fence                  |      16 |       0 |         0 |
+| Chest                      |      11 |       0 |         0 |
+| Cobweb                     |       3 |       0 |         0 |
+| Monster Spawner            |       3 |       0 |         0 |
+| Oak Sign                   |       2 |       0 |         0 |
+| Rail                       |       2 |       0 |         0 |
+| Wet Sponge                 |       2 |       0 |         0 |
+| Soul Sand                  |       1 |       0 |         0 |
++----------------------------+---------+---------+-----------+
+| Item                       |   Total | Missing | Available |
++----------------------------+---------+---------+-----------+

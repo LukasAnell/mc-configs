@@ -1,0 +1,9 @@
+# Set the horizontal spacing of the items screen.
+# 1 is vanilla, and the suggested range is 1.5 to 2.5.
+scale: 1.75
+
+# Set the default category to sort by.
+# 0: times mined, 1: times broken, 2: times crafted
+# 3: times used, 4: times picked up, 5: times dropped
+# Set to -1 to disable this behavior.
+defaultCategory: 0

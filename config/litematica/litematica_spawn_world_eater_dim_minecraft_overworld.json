@@ -1,0 +1,226 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "schematics\\530_afkworldeater_1.13_v1.1.litematic",
+        "name": "530wide afkworldeater 1.13 v1.1",
+        "origin": [
+          -73,
+          160,
+          -72
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "centre chunk (align to chunk border)",
+            "placement": {
+              "pos": [
+                -8,
+                0,
+                -8
+              ],
+              "name": "centre chunk (align to chunk border)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": false,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "return side",
+            "placement": {
+              "pos": [
+                -89,
+                88,
+                262
+              ],
+              "name": "return side",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "trench alignment",
+            "placement": {
+              "pos": [
+                265,
+                0,
+                265
+              ],
+              "name": "trench alignment",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": false,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "tnt side",
+            "placement": {
+              "pos": [
+                263,
+                1,
+                -263
+              ],
+              "name": "tnt side",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\530_afkworldeater_1.13_v1.1.litematic",
+        "name": "530wide afkworldeater 1.13 v1.1",
+        "origin": [
+          81,
+          160,
+          88
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "centre chunk (align to chunk border)",
+            "placement": {
+              "pos": [
+                -8,
+                0,
+                -8
+              ],
+              "name": "centre chunk (align to chunk border)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "return side",
+            "placement": {
+              "pos": [
+                -249,
+                88,
+                262
+              ],
+              "name": "return side",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "trench alignment",
+            "placement": {
+              "pos": [
+                265,
+                0,
+                265
+              ],
+              "name": "trench alignment",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "tnt side",
+            "placement": {
+              "pos": [
+                103,
+                1,
+                -263
+              ],
+              "name": "tnt side",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 250,
+    "layer_above": 0,
+    "layer_below": 201,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "spawn peri world eater (scuffed)",
+    "current": "spawn peri world eater (scuffed)",
+    "boxes": [
+      {
+        "pos1": [
+          -180,
+          161,
+          192
+        ],
+        "pos2": [
+          191,
+          249,
+          -176
+        ],
+        "name": "spawn peri world eater (scuffed)"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

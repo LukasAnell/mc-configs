@@ -1,0 +1,58 @@
++---------------------+-------+---------+------------------+
+| Material List for placement 'Variable Speed Chromoss v2' |
++---------------------+-------+---------+------------------+
+| Item                | Total | Missing |        Available |
++---------------------+-------+---------+------------------+
+| Moss Block          |  4756 |    4756 |                0 |
+| Hopper              |  3187 |    3187 |                0 |
+| Glass               |  2134 |    2134 |                0 |
+| Stone               |  1760 |    1760 |                0 |
+| Observer            |  1624 |    1624 |                0 |
+| Jack o'Lantern      |  1563 |    1563 |                0 |
+| Composter           |   989 |     989 |                0 |
+| Slime Block         |   970 |     970 |                0 |
+| Red Stained Glass   |   648 |     648 |                0 |
+| Scaffolding         |   519 |     519 |                0 |
+| Note Block          |   342 |     342 |                0 |
+| Sticky Piston       |   337 |     337 |                0 |
+| Honey Block         |   243 |     243 |                0 |
+| Lava Bucket         |   208 |     208 |                0 |
+| Dropper             |   188 |     188 |                0 |
+| Packed Ice          |   182 |     182 |                0 |
+| Redstone Repeater   |   181 |     181 |                0 |
+| Dispenser           |   166 |     166 |                0 |
+| Glow Lichen         |   144 |     144 |                0 |
+| Redstone Dust       |   124 |     124 |                0 |
+| Water Bucket        |   122 |     122 |                1 |
+| Smooth Stone Slab   |    83 |      83 |                0 |
+| Redstone Comparator |    69 |      69 |                0 |
+| Blue Stained Glass  |    52 |      52 |                0 |
+| Iron Door           |    51 |      51 |                0 |
+| Redstone Torch      |    19 |      19 |                0 |
+| Iron Trapdoor       |    18 |      18 |                0 |
+| Piston              |    17 |      17 |                0 |
+| Glass Pane          |    16 |      16 |                0 |
+| Activator Rail      |    15 |      15 |                0 |
+| Obsidian            |    12 |      12 |                0 |
+| Block of Redstone   |     8 |       8 |                0 |
+| Green Wool          |     6 |       6 |                0 |
+| White Shulker Box   |     5 |       5 |                0 |
+| Lever               |     4 |       4 |                0 |
+| Powered Rail        |     4 |       4 |                0 |
+| Cake                |     3 |       3 |                0 |
+| Chest               |     2 |       2 |                0 |
+| Spruce Trapdoor     |     2 |       2 |                0 |
+| Barrel              |     1 |       1 |                0 |
+| Cactus              |     1 |       1 |                0 |
+| Cauldron            |     1 |       1 |                0 |
+| Lime Wool           |     1 |       1 |                0 |
+| Moss Carpet         |     1 |       1 |                0 |
+| Orange Wool         |     1 |       1 |                0 |
+| Red Wool            |     1 |       1 |                0 |
+| Sand                |     1 |       1 |                0 |
+| Soul Sand           |     1 |       1 |                0 |
+| Turtle Egg          |     1 |       1 |                0 |
+| Yellow Wool         |     1 |       1 |                0 |
++---------------------+-------+---------+------------------+
+| Item                | Total | Missing |        Available |
++---------------------+-------+---------+------------------+

@@ -1,0 +1,86 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "schematics\\50_Furnace_Array_v2.litematic",
+        "name": "50 Furnace Array v2",
+        "origin": [
+          94,
+          43,
+          9
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "50 Furnace Array v2",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "50 Furnace Array v2",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL_BELOW",
+    "axis": "y",
+    "layer_single": 56,
+    "layer_above": 0,
+    "layer_below": 54,
+    "layer_range_min": 0,
+    "layer_range_max": 2,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Beacon",
+    "current": "Beacon",
+    "boxes": [
+      {
+        "pos1": [
+          -4,
+          65,
+          -3
+        ],
+        "pos2": [
+          4,
+          69,
+          -11
+        ],
+        "name": "Beacon"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

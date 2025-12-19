@@ -1,0 +1,86 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.17.1 Updated\\.minecraft\\schematics\\Bartering_Farm.litematic",
+        "name": "Piglin Farm",
+        "origin": [
+          195,
+          12,
+          229
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 12648480,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Piglin Farm",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                3
+              ],
+              "name": "Piglin Farm",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 253,
+    "layer_above": -8,
+    "layer_below": 124,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "piglin bartering + storage real",
+    "current": "piglin bartering + storage real",
+    "boxes": [
+      {
+        "pos1": [
+          189,
+          15,
+          219
+        ],
+        "pos2": [
+          231,
+          1,
+          232
+        ],
+        "name": "piglin bartering + storage real"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "schematics\\Chronos V3.litematic",
+        "name": "Chronos V3",
+        "origin": [
+          -1838,
+          103,
+          797
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Chronos V3",
+            "placement": {
+              "pos": [
+                19,
+                147,
+                17
+              ],
+              "name": "Chronos V3",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Scaffolding Shulker Farm V3L.litematic",
+        "name": "Scaffolding Shulker Farm V3",
+        "origin": [
+          758,
+          120,
+          339
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 13541986,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Scaffolding Shulker Farm V3",
+            "placement": {
+              "pos": [
+                33,
+                39,
+                22
+              ],
+              "name": "Scaffolding Shulker Farm V3",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Dualcore_4gt_Fungus_Factory_-_hampter_krebs.litematic",
+        "name": "Dualcore 4gt Fungus Factory - hampter, krebs",
+        "origin": [
+          775,
+          72,
+          -38
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 32052,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\doubleshot_tunnelbore_by_desu.litematic",
+        "name": "doubleshot_tunnelbore_by_desu",
+        "origin": [
+          -546,
+          -54,
+          1075
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "doubleshot_tunnelbore_by_desu",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "doubleshot_tunnelbore_by_desu",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Variable_Speed_Chromoss_v2.litematic",
+        "name": "Variable Speed Chromoss v2",
+        "origin": [
+          857,
+          81,
+          -8
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 21386,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Variable Speed Chromoss v2",
+            "placement": {
+              "pos": [
+                -9,
+                0,
+                -17
+              ],
+              "name": "Variable Speed Chromoss v2",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\azalea farm full.litematic",
+        "name": "azalea farm full",
+        "origin": [
+          856,
+          92,
+          11
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 5453690,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "azalea farm full",
+            "placement": {
+              "pos": [
+                18,
+                23,
+                0
+              ],
+              "name": "azalea farm full",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 5,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 102,
+    "layer_above": 0,
+    "layer_below": 112,
+    "layer_range_min": 0,
+    "layer_range_max": 2,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          0,
+          0,
+          0
+        ],
+        "pos2": [
+          0,
+          0,
+          0
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

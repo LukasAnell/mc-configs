@@ -1,0 +1,213 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "..\\..\\Quilt 1.19.4\\.minecraft\\schematics\\General_Crafting_System_v2_2.4_million_per_hour_-_51mayday.litematic",
+        "name": "General Crafting System v2 (2.4 million per hour) - 51mayday",
+        "origin": [
+          314800,
+          87,
+          313570
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 12648480,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Alignment",
+            "placement": {
+              "pos": [
+                12,
+                9,
+                12
+              ],
+              "name": "Alignment",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Crafter",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                29
+              ],
+              "name": "Crafter",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "..\\..\\Quilt 1.19.4\\.minecraft\\schematics\\Full Concrete Storage.litematic",
+        "name": "Full Concrete Storage",
+        "origin": [
+          314882,
+          97,
+          313634
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Full Concrete Storage",
+            "placement": {
+              "pos": [
+                0,
+                64,
+                0
+              ],
+              "name": "Full Concrete Storage",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "..\\..\\Quilt 1.19.4\\.minecraft\\schematics\\272SmallTrenchWorldEater.litematic",
+        "name": "272SmallTrenchWorldEater",
+        "origin": [
+          313968,
+          100,
+          314588
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 32052,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Station2",
+            "placement": {
+              "pos": [
+                6,
+                1,
+                1
+              ],
+              "name": "Station2",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Station1",
+            "placement": {
+              "pos": [
+                4,
+                1,
+                272
+              ],
+              "name": "Station1",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "TrenchOutlines",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "TrenchOutlines",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 2,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": -47,
+    "layer_above": 1,
+    "layer_below": -14,
+    "layer_range_min": 91,
+    "layer_range_max": 95,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          0,
+          0,
+          0
+        ],
+        "pos2": [
+          0,
+          0,
+          0
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

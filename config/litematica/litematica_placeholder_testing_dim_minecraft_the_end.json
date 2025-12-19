@@ -1,0 +1,216 @@
+{
+  "selections": {
+    "mode": "SIMPLE",
+    "current": "D:\\Prism Launcher\\PrismLauncher\\instances\\Quilt 1.19.4\\.minecraft\\config\\litematica\\area_selections_per_world\\placeholder_testing\\area_selections\\Full Concrete Storage.json"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "schematics\\192k_silly_string_concrete_factory.litematic",
+        "name": "192k silly string concrete factory",
+        "origin": [
+          94,
+          25,
+          -6
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "192k silly string concrete factory",
+            "placement": {
+              "pos": [
+                0,
+                24,
+                12
+              ],
+              "name": "192k silly string concrete factory",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Minimal_Prefill_6x.litematic",
+        "name": "Minimal Prefill 6x",
+        "origin": [
+          141,
+          17,
+          2
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 5845781,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "A Slice",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "A Slice",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "B Slice",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                3
+              ],
+              "name": "B Slice",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Farm_Bulk_1.2m_v1.0.0-slice.litematic",
+        "name": "Farm Bulk 1.2m v1.0.0-slice",
+        "origin": [
+          112,
+          49,
+          -11
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 2305046,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Farm Bulk 1.2m v1.0.0-slice",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Farm Bulk 1.2m v1.0.0-slice",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Farm_Bulk_1.2m_v1.0.0-sorter.litematic",
+        "name": "Farm Bulk 1.2m v1.0.0-sorter",
+        "origin": [
+          113,
+          49,
+          -10
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Farm Bulk 1.2m v1.0.0-sorter",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Farm Bulk 1.2m v1.0.0-sorter",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 128,
+    "layer_above": 0,
+    "layer_below": 267,
+    "layer_range_min": 91,
+    "layer_range_max": 95,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Full Concrete Storage",
+    "current": "Full Concrete Storage",
+    "boxes": [
+      {
+        "pos1": [
+          91,
+          77,
+          -42
+        ],
+        "pos2": [
+          149,
+          13,
+          76
+        ],
+        "name": "Full Concrete Storage"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

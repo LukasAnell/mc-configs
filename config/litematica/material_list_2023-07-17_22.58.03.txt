@@ -1,0 +1,29 @@
++-------------------+-------+---------+------------------------------+
+| Material List for placement 'Variable_Speed_Chromoss_v2.litematic' |
++-------------------+-------+---------+------------------------------+
+| Item              | Total | Missing |                    Available |
++-------------------+-------+---------+------------------------------+
+| Moss Block        |   868 |     868 |                            0 |
+| Hopper            |   624 |     624 |                            0 |
+| Stone             |   352 |     352 |                            0 |
+| Glass             |   312 |     312 |                            0 |
+| Jack o'Lantern    |   312 |     312 |                            0 |
+| Observer          |   312 |     312 |                            0 |
+| Composter         |   192 |     192 |                            0 |
+| Slime Block       |   192 |     192 |                            0 |
+| Red Stained Glass |   104 |     104 |                            0 |
+| Scaffolding       |    96 |      96 |                            0 |
+| Note Block        |    64 |      64 |                            0 |
+| Sticky Piston     |    64 |      64 |                            0 |
+| Honey Block       |    48 |      48 |                            0 |
+| Lava Bucket       |    40 |      40 |                            0 |
+| Dispenser         |    32 |      32 |                            0 |
+| Dropper           |    32 |      32 |                            0 |
+| Glow Lichen       |    32 |      32 |                            0 |
+| Redstone Repeater |    24 |      24 |                            0 |
+| Water Bucket      |    20 |      20 |                            1 |
+| Smooth Stone Slab |    16 |      16 |                            0 |
+| Iron Door         |     8 |       8 |                            0 |
++-------------------+-------+---------+------------------------------+
+| Item              | Total | Missing |                    Available |
++-------------------+-------+---------+------------------------------+

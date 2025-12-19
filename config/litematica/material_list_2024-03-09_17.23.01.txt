@@ -1,0 +1,43 @@
++------------------------------+-------+---------+-----------+
+| Material List for placement 'Unnamed'                      |
++------------------------------+-------+---------+-----------+
+| Item                         | Total | Missing | Available |
++------------------------------+-------+---------+-----------+
+| Block of Iron                |   277 |     277 |         0 |
+| TNT                          |   192 |     192 |         0 |
+| Glass                        |   172 |     172 |         0 |
+| Observer                     |   167 |     167 |         0 |
+| Soul Sand                    |   120 |     120 |         0 |
+| Redstone Dust                |   118 |     118 |         0 |
+| Piston                       |    96 |      96 |         0 |
+| Target                       |    80 |      80 |         0 |
+| Dead Horn Coral Fan          |    72 |      72 |         0 |
+| Light Blue Glazed Terracotta |    64 |      64 |         0 |
+| Powered Rail                 |    28 |      28 |         0 |
+| Redstone Repeater            |    28 |      28 |         0 |
+| Slime Block                  |    28 |      28 |         0 |
+| Sticky Piston                |    19 |      19 |         0 |
+| Smooth Stone Slab            |    15 |      15 |         0 |
+| Note Block                   |    14 |      14 |         0 |
+| Block of Redstone            |     5 |       5 |         0 |
+| Acacia Fence Gate            |     4 |       4 |         0 |
+| Redstone Lamp                |     3 |       3 |         0 |
+| Birch Fence Gate             |     2 |       2 |         0 |
+| Dark Oak Trapdoor            |     2 |       2 |         0 |
+| Hopper                       |     2 |       2 |         0 |
+| Obsidian                     |     2 |       2 |         0 |
+| Redstone Torch               |     2 |       2 |         0 |
+| Acacia Leaves                |     1 |       1 |         0 |
+| Chest                        |     1 |       1 |         0 |
+| Cobblestone Stairs           |     1 |       1 |         0 |
+| Grindstone                   |     1 |       1 |         0 |
+| Iron Trapdoor                |     1 |       1 |         0 |
+| Oak Leaves                   |     1 |       1 |         0 |
+| Oak Log                      |     1 |       1 |         0 |
+| Redstone Comparator          |     1 |       1 |         0 |
+| Spruce Log                   |     1 |       1 |         0 |
+| Stone Brick Wall             |     1 |       1 |         0 |
+| String                       |     1 |       1 |         0 |
++------------------------------+-------+---------+-----------+
+| Item                         | Total | Missing | Available |
++------------------------------+-------+---------+-----------+

@@ -1,0 +1,274 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "schematics\\Azalea_dualcore_-_Firnagzen.litematic",
+        "name": "Azalea dualcore - complete",
+        "origin": [
+          6879,
+          68,
+          6912
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Azalea dualcore - complete",
+            "placement": {
+              "pos": [
+                15,
+                17,
+                22
+              ],
+              "name": "Azalea dualcore - complete",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Digsort things\\perfect_shulker_unloader.litematic",
+        "name": "perfect shulker unloader",
+        "origin": [
+          6897,
+          70,
+          6923
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "perfect shulker unloader",
+            "placement": {
+              "pos": [
+                0,
+                3,
+                0
+              ],
+              "name": "perfect shulker unloader",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Digsort things\\perfect_shulker_unloader.litematic",
+        "name": "perfect shulker unloader",
+        "origin": [
+          6897,
+          70,
+          6922
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 13541986,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "perfect shulker unloader",
+            "placement": {
+              "pos": [
+                0,
+                3,
+                0
+              ],
+              "name": "perfect shulker unloader",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\Digsort things\\Precision_2x_loader_figi.litematic",
+        "name": "Precision_2x_loader_figi",
+        "origin": [
+          6890,
+          63,
+          6941
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8482918,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Precision_2x_loader_figi",
+            "placement": {
+              "pos": [
+                0,
+                9,
+                0
+              ],
+              "name": "Precision_2x_loader_figi",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\AlephSMP_-x6_Shulker_Loader-_-6x6x3-_FJL_1_1.litematic",
+        "name": "6x loader",
+        "origin": [
+          6888,
+          63,
+          6923
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 21386,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": " 1",
+            "placement": {
+              "pos": [
+                0,
+                5,
+                0
+              ],
+              "name": " 1",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "schematics\\azalea farm full (test).litematic",
+        "name": "azalea farm full (test)",
+        "origin": [
+          6892,
+          71,
+          6948
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16743004,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "azalea farm full (test)",
+            "placement": {
+              "pos": [
+                18,
+                0,
+                29
+              ],
+              "name": "azalea farm full (test)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 233,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 2,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "azalea farm full",
+    "current": "azalea farm full",
+    "boxes": [
+      {
+        "pos1": [
+          6910,
+          91,
+          6948
+        ],
+        "pos2": [
+          6892,
+          68,
+          6977
+        ],
+        "name": "azalea farm full"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

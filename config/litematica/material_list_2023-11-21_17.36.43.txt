@@ -1,0 +1,30 @@
++---------------------+-------+---------+----------------------------+
+| Material List for schematic '50 Furnace Array v2' (1 of 1 regions) |
++---------------------+-------+---------+----------------------------+
+| Item                | Total | Missing |                  Available |
++---------------------+-------+---------+----------------------------+
+| White Stained Glass |   260 |     260 |                          0 |
+| Observer            |   229 |     229 |                          0 |
+| Block of Iron       |   212 |     212 |                          0 |
+| Dropper             |   176 |     176 |                          0 |
+| Hopper              |   158 |     158 |                          0 |
+| Powered Rail        |   107 |     107 |                          0 |
+| Redstone Repeater   |    81 |      81 |                          0 |
+| Redstone Comparator |    63 |      63 |                          0 |
+| Furnace             |    50 |      50 |                          0 |
+| Sticky Piston       |    31 |      31 |                          0 |
+| Composter           |    30 |      30 |                          0 |
+| Note Block          |    21 |      21 |                          0 |
+| Redstone Torch      |    14 |      14 |                          0 |
+| Block of Redstone   |     9 |       9 |                          0 |
+| Jack o'Lantern      |     9 |       9 |                          0 |
+| Chest               |     8 |       8 |                          0 |
+| Piston              |     8 |       8 |                          0 |
+| Oak Sign            |     6 |       6 |                          0 |
+| Quartz Stairs       |     6 |       6 |                          0 |
+| Block of Quartz     |     2 |       2 |                          0 |
+| Redstone Lamp       |     2 |       2 |                          0 |
+| Redstone Dust       |     1 |       1 |                          0 |
++---------------------+-------+---------+----------------------------+
+| Item                | Total | Missing |                  Available |
++---------------------+-------+---------+----------------------------+

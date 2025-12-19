@@ -1,0 +1,23 @@
++-------------------------+-------+---------+------------+
+| Material List for placement '272SmallTrenchWorldEater' |
++-------------------------+-------+---------+------------+
+| Item                    | Total | Missing |  Available |
++-------------------------+-------+---------+------------+
+| Slime Block             |  2790 |    2790 |          0 |
+| Oak Leaves              |  2120 |    2120 |          0 |
+| Piston                  |  1061 |    1061 |          0 |
+| Observer                |   841 |     841 |          0 |
+| Block of Redstone       |   607 |     607 |          0 |
+| Sticky Piston           |   574 |     574 |          0 |
+| Spruce Leaves           |   542 |     542 |          0 |
+| White Stained Glass     |   514 |     514 |          0 |
+| White Glazed Terracotta |   133 |     133 |          0 |
+| Stone                   |    97 |      97 |          0 |
+| Cobblestone Wall        |    44 |      44 |          0 |
+| Dead Tube Coral Fan     |    44 |      44 |          0 |
+| Detector Rail           |    44 |      44 |          0 |
+| TNT                     |    44 |      44 |          0 |
+| Oak Fence Gate          |     2 |       2 |          0 |
++-------------------------+-------+---------+------------+
+| Item                    | Total | Missing |  Available |
++-------------------------+-------+---------+------------+

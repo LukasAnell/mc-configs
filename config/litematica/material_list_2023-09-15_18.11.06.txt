@@ -1,0 +1,48 @@
++------------------------+-------+---------+----------------+
+| Material List for placement 'ianxo4 gold farm collection' |
++------------------------+-------+---------+----------------+
+| Item                   | Total | Missing |      Available |
++------------------------+-------+---------+----------------+
+| Glass                  |   409 |     358 |              0 |
+| Block of Emerald       |   164 |     164 |              0 |
+| Hopper                 |   113 |     113 |              0 |
+| Chest                  |   101 |     101 |              0 |
+| Observer               |    87 |      87 |              0 |
+| Cobblestone            |    49 |      49 |              0 |
+| Gray Concrete          |    48 |      48 |              0 |
+| Sand                   |    48 |      48 |              0 |
+| Redstone Repeater      |    35 |      35 |              0 |
+| Dropper                |    34 |      34 |              0 |
+| Redstone Dust          |    33 |      33 |              0 |
+| Redstone Comparator    |    32 |      32 |              0 |
+| Powered Rail           |    24 |      24 |              0 |
+| Note Block             |    23 |      23 |              0 |
+| Piston                 |    18 |      18 |              0 |
+| Sticky Piston          |    18 |      18 |              0 |
+| Redstone Torch         |    14 |      14 |              0 |
+| Smooth Stone Slab      |    14 |      14 |              0 |
+| Block of Redstone      |    12 |      12 |              0 |
+| Composter              |    12 |      12 |              0 |
+| Gray Stained Glass     |    12 |      12 |              0 |
+| Obsidian               |    11 |       1 |              0 |
+| Packed Ice             |     9 |       9 |              0 |
+| Stone Button           |     9 |       9 |              0 |
+| Cobweb                 |     8 |       8 |              0 |
+| Dispenser              |     6 |       6 |              0 |
+| Gray Glazed Terracotta |     6 |       6 |              0 |
+| Jack o'Lantern         |     6 |       6 |              0 |
+| White Shulker Box      |     6 |       6 |              0 |
+| Iron Trapdoor          |     4 |       4 |              0 |
+| Oak Fence Gate         |     3 |       3 |              0 |
+| Crafting Table         |     2 |       2 |              0 |
+| Ender Chest            |     2 |       2 |             42 |
+| Spruce Trapdoor        |     2 |       2 |              0 |
+| Beacon                 |     1 |       1 |              0 |
+| Honey Block            |     1 |       1 |              0 |
+| Lever                  |     1 |       1 |              0 |
+| Oak Sign               |     1 |       1 |              0 |
+| Slime Block            |     1 |       1 |              0 |
+| Soul Soil              |     1 |       1 |              0 |
++------------------------+-------+---------+----------------+
+| Item                   | Total | Missing |      Available |
++------------------------+-------+---------+----------------+

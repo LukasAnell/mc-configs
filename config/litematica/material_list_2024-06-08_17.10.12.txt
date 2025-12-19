@@ -1,0 +1,56 @@
++----------------------------+-------+---------+------------------------------+
+| Material List for schematic 'bread concrete color swapper' (1 of 1 regions) |
++----------------------------+-------+---------+------------------------------+
+| Item                       | Total | Missing |                    Available |
++----------------------------+-------+---------+------------------------------+
+| Gray Stained Glass         |   573 |     573 |                            0 |
+| Observer                   |   267 |     267 |                            0 |
+| Cyan Terracotta            |   181 |     181 |                            0 |
+| Redstone Dust              |   101 |     101 |                            0 |
+| Sticky Piston              |    97 |      97 |                            0 |
+| Note Block                 |    93 |      93 |                            0 |
+| Piston                     |    91 |      91 |                            0 |
+| Activator Rail             |    88 |      88 |                            0 |
+| Redstone Comparator        |    52 |      52 |                            0 |
+| Dropper                    |    38 |      38 |                            0 |
+| Gray Concrete Powder       |    33 |      33 |                            0 |
+| Light Gray Concrete Powder |    33 |      33 |                            0 |
+| Redstone Repeater          |    32 |      32 |                            0 |
+| Slime Block                |    27 |      27 |                            0 |
+| Block of Redstone          |    25 |      25 |                            0 |
+| Gray Glazed Terracotta     |    21 |      21 |                            0 |
+| Gray Stained Glass Pane    |    20 |      20 |                            0 |
+| Redstone Lamp              |    20 |      20 |                            0 |
+| Stone Brick Stairs         |    19 |      19 |                            0 |
+| Black Concrete Powder      |    17 |      17 |                            0 |
+| Blue Concrete Powder       |    17 |      17 |                            0 |
+| Brown Concrete Powder      |    17 |      17 |                            0 |
+| Cyan Concrete Powder       |    17 |      17 |                            0 |
+| Gravel                     |    17 |      17 |                            0 |
+| Green Concrete Powder      |    17 |      17 |                            0 |
+| Light Blue Concrete Powder |    17 |      17 |                            0 |
+| Lime Concrete Powder       |    17 |      17 |                            0 |
+| Magenta Concrete Powder    |    17 |      17 |                            0 |
+| Orange Concrete Powder     |    17 |      17 |                            0 |
+| Pink Concrete Powder       |    17 |      17 |                            0 |
+| Purple Concrete Powder     |    17 |      17 |                            0 |
+| Red Concrete Powder        |    17 |      17 |                            0 |
+| Red Sand                   |    17 |      17 |                            0 |
+| Sand                       |    17 |      17 |                            0 |
+| White Concrete Powder      |    17 |      17 |                            0 |
+| Yellow Concrete Powder     |    17 |      17 |                            0 |
+| Ender Chest                |     8 |       8 |                           25 |
+| Lever                      |     7 |       7 |                            0 |
+| Iron Trapdoor              |     6 |       6 |                            0 |
+| Oak Sign                   |     6 |       6 |                            0 |
+| Redstone Torch             |     6 |       6 |                            0 |
+| Iron Door                  |     5 |       5 |                            0 |
+| Birch Trapdoor             |     4 |       4 |                            0 |
+| Dark Oak Leaves            |     4 |       4 |                            0 |
+| Composter                  |     3 |       3 |                            0 |
+| Obsidian                   |     3 |       3 |                            0 |
+| Target                     |     3 |       3 |                            0 |
+| Stripped Birch Wood        |     2 |       2 |                            0 |
++----------------------------+-------+---------+------------------------------+
+| Item                       | Total | Missing |                    Available |
++----------------------------+-------+---------+------------------------------+

@@ -1,0 +1,23 @@
++---------------------+-------+---------+---------------------+
+| Material List for placement 'doubleshot_tunnelbore_by_desu' |
++---------------------+-------+---------+---------------------+
+| Item                | Total | Missing |           Available |
++---------------------+-------+---------+---------------------+
+| Slime Block         |   205 |     205 |                   0 |
+| Observer            |    60 |      60 |                   0 |
+| Piston              |    47 |      47 |                   0 |
+| Sticky Piston       |    34 |      34 |                   0 |
+| Block of Redstone   |    31 |      31 |                   0 |
+| White Stained Glass |    28 |      28 |                   0 |
+| Note Block          |    15 |      15 |                   0 |
+| Warped Fence Gate   |    12 |      12 |                   0 |
+| White Concrete      |     9 |       9 |                   0 |
+| Cobblestone Wall    |     6 |       6 |                   0 |
+| Dead Tube Coral Fan |     6 |       6 |                   0 |
+| Detector Rail       |     6 |       6 |                   0 |
+| Honey Block         |     6 |       6 |                   0 |
+| TNT                 |     6 |       6 |                   0 |
+| Iron Trapdoor       |     1 |       1 |                   0 |
++---------------------+-------+---------+---------------------+
+| Item                | Total | Missing |           Available |
++---------------------+-------+---------+---------------------+

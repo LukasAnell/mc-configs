@@ -1,0 +1,21 @@
++---------------------+------------+---------+------------------+
+| Material List for placement 'daisy_pig_6x_Shulker_Box_Loader' |
++---------------------+------------+---------+------------------+
+| Item                | Total (x2) | Missing |        Available |
++---------------------+------------+---------+------------------+
+| Hopper              |         26 |      26 |                0 |
+| Observer            |         22 |      22 |                0 |
+| Dropper             |         10 |      10 |                0 |
+| Packed Ice          |          6 |       6 |                0 |
+| Gray Concrete       |          4 |       4 |                0 |
+| Redstone Comparator |          4 |       4 |                0 |
+| Redstone Torch      |          4 |       4 |                0 |
+| Dispenser           |          2 |       2 |                0 |
+| Iron Door           |          2 |       2 |                0 |
+| Piston              |          2 |       2 |                0 |
+| Redstone Dust       |          2 |       2 |                0 |
+| Sticky Piston       |          2 |       2 |                0 |
+| White Shulker Box   |          2 |       2 |                0 |
++---------------------+------------+---------+------------------+
+| Item                | Total (x2) | Missing |        Available |
++---------------------+------------+---------+------------------+

@@ -1,0 +1,198 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "..\\..\\..\\..\\..\\MultiMC\\instances\\Fabric 1.17.1 Updated\\.minecraft\\schematics\\4 bit binary adder (updated).litematic",
+        "name": "4 bit binary adder (updated)",
+        "origin": [
+          99964,
+          1,
+          1000004
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "4 bit binary adder (updated)",
+            "placement": {
+              "pos": [
+                9,
+                3,
+                0
+              ],
+              "name": "4 bit binary adder (updated)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "..\\..\\..\\..\\..\\MultiMC\\instances\\Fabric 1.17.1 Updated\\.minecraft\\schematics\\Compact Binary Adder 2.0.litematic",
+        "name": "Compact Binary Adder 2.0",
+        "origin": [
+          99995,
+          1,
+          1000007
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Compact Binary Adder 2.0",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Compact Binary Adder 2.0",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "..\\..\\..\\..\\..\\MultiMC\\instances\\Fabric 1.17.1 Updated\\.minecraft\\schematics\\Insane Brewing Setup.litematic",
+        "name": "Insane Brewing Setup",
+        "origin": [
+          49978,
+          7,
+          49970
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Insane Brewing Setup",
+            "placement": {
+              "pos": [
+                0,
+                1,
+                0
+              ],
+              "name": "Insane Brewing Setup",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "..\\..\\..\\..\\..\\MultiMC\\instances\\Fabric 1.17.1 Updated\\.minecraft\\schematics\\Binary to decimal to display.litematic",
+        "name": "Binary to decimal to display",
+        "origin": [
+          100279,
+          12,
+          1000225
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Binary to decimal to display",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                240
+              ],
+              "name": "Binary to decimal to display",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 208,
+    "layer_above": -8,
+    "layer_below": 124,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "4 bit binary adder optimized",
+    "current": "4 bit binary adder optimized",
+    "boxes": [
+      {
+        "pos1": [
+          99973,
+          4,
+          1000004
+        ],
+        "pos2": [
+          99964,
+          1,
+          1000027
+        ],
+        "name": "4 bit binary adder optimized"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

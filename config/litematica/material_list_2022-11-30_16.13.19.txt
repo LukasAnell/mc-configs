@@ -1,0 +1,64 @@
++-------------------------------+-------+---------+-----------+
+| Area Analysis for selection 'Chronos V3'                    |
++-------------------------------+-------+---------+-----------+
+| Item                          | Total | Missing | Available |
++-------------------------------+-------+---------+-----------+
+| White Stained Glass           |   954 |       0 |         0 |
+| Block of Emerald              |   225 |       0 |         0 |
+| White Concrete                |   180 |       0 |         0 |
+| Observer                      |   159 |       0 |         0 |
+| Smooth Quartz Block           |   151 |       0 |         0 |
+| Hopper                        |   116 |       0 |         0 |
+| Chest                         |   110 |       0 |         0 |
+| Slime Block                   |   108 |       0 |         0 |
+| Deepslate Brick Wall          |    92 |       0 |         0 |
+| Smooth Quartz Slab            |    79 |       0 |         0 |
+| Redstone Repeater             |    78 |       0 |         0 |
+| Fletching Table               |    73 |       0 |         0 |
+| White Glazed Terracotta       |    72 |       0 |         0 |
+| Redstone Torch                |    69 |       0 |         0 |
+| Redstone Comparator           |    64 |       0 |         0 |
+| Smooth Quartz Stairs          |    57 |       0 |         0 |
+| Oak Leaves                    |    55 |       0 |         0 |
+| Piston                        |    51 |       0 |         0 |
+| Redstone Dust                 |    47 |       0 |         0 |
+| Composter                     |    45 |       0 |         0 |
+| Sticky Piston                 |    44 |       0 |         0 |
+| Birch Fence Gate              |    40 |       0 |         0 |
+| Obsidian                      |    40 |       0 |         0 |
+| Note Block                    |    37 |       0 |         0 |
+| Block of Redstone             |    28 |       0 |         0 |
+| Dropper                       |    28 |       0 |         0 |
+| Jack o'Lantern                |    27 |       0 |         0 |
+| Blue Ice                      |    22 |       0 |         0 |
+| Ladder                        |    21 |       0 |         0 |
+| Iron Trapdoor                 |    15 |       0 |         0 |
+| Powered Rail                  |    11 |       0 |         0 |
+| White Concrete Powder         |    11 |       0 |         0 |
+| Birch Trapdoor                |    10 |       0 |         0 |
+| Lever                         |    10 |       0 |         0 |
+| Pointed Dripstone             |    10 |       0 |         0 |
+| White Carpet                  |    10 |       0 |         0 |
+| Barrel                        |     9 |       0 |         0 |
+| Dispenser                     |     9 |       0 |         0 |
+| White Shulker Box             |     9 |       0 |         0 |
+| Lava Bucket                   |     6 |       0 |         0 |
+| Water Bucket                  |     6 |       0 |         0 |
+| Grindstone                    |     5 |       0 |         0 |
+| Scaffolding                   |     5 |       0 |         0 |
+| Beacon                        |     4 |       0 |         0 |
+| Sea Pickle                    |     4 |       0 |         0 |
+| String                        |     4 |       0 |         0 |
+| Birch Sign                    |     1 |       0 |         0 |
+| Honey Block                   |     1 |       0 |         0 |
+| Iron Door                     |     1 |       0 |         0 |
+| Light Weighted Pressure Plate |     1 |       0 |         0 |
+| Lightning Rod                 |     1 |       0 |         0 |
+| Oak Sign                      |     1 |       0 |         0 |
+| Redstone Lamp                 |     1 |       0 |         0 |
+| Soul Sand                     |     1 |       0 |         0 |
+| Stonecutter                   |     1 |       0 |         0 |
+| Stripped Oak Log              |     1 |       0 |         0 |
++-------------------------------+-------+---------+-----------+
+| Item                          | Total | Missing | Available |
++-------------------------------+-------+---------+-----------+

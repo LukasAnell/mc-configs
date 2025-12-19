@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": -47,
+    "layer_above": 4,
+    "layer_below": -50,
+    "layer_range_min": 91,
+    "layer_range_max": 96,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Kahyxen item based chunk loader ow",
+    "current": "Kahyxen item based chunk loader ow",
+    "boxes": [
+      {
+        "pos1": [
+          -15999,
+          140,
+          -16000
+        ],
+        "pos2": [
+          -16002,
+          134,
+          -16004
+        ],
+        "name": "Kahyxen item based chunk loader ow"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

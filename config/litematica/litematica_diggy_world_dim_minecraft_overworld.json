@@ -1,0 +1,141 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "E:\\Prism Launcher\\PrismLauncher\\instances\\Fabric 1.19.4 copy\\.minecraft\\schematics\\1overhead_3way_bb_by_desu.litematic",
+        "name": "1overhead_3way_bb_by_Desu",
+        "origin": [
+          -664,
+          -59,
+          -280
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Return",
+            "placement": {
+              "pos": [
+                244,
+                -1,
+                8
+              ],
+              "name": "Return",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Start",
+            "placement": {
+              "pos": [
+                -7,
+                -1,
+                8
+              ],
+              "name": "Start",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "E:\\Prism Launcher\\PrismLauncher\\instances\\Fabric 1.19.4 copy\\.minecraft\\schematics\\VTH_V3.1.litematic",
+        "name": "unloader",
+        "origin": [
+          -416,
+          127,
+          1052
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "unloader",
+            "placement": {
+              "pos": [
+                34,
+                14,
+                90
+              ],
+              "name": "unloader",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 1,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 102,
+    "layer_above": -6,
+    "layer_below": 122,
+    "layer_range_min": 0,
+    "layer_range_max": 2,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "small chest monster",
+    "current": "small chest monster",
+    "boxes": [
+      {
+        "pos1": [
+          425,
+          147,
+          141
+        ],
+        "pos2": [
+          424,
+          142,
+          144
+        ],
+        "name": "small chest monster"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

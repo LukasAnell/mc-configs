@@ -1,0 +1,28 @@
+{
+  "servers": {
+    "pvp.lostxor.com:25565": {
+      "forcedProtocol": -1
+    },
+    "aams.works:25563": {
+      "forcedProtocol": -1
+    },
+    "retrotech.ddns.net:25565": {
+      "forcedProtocol": -1
+    },
+    "2b2t.org:25565": {
+      "forcedProtocol": 340
+    },
+    "shlermingo.com:25565": {
+      "forcedProtocol": -1
+    },
+    "smp.kahppa.studio:25565": {
+      "forcedProtocol": 754
+    },
+    "server.labystudio.de:25565": {
+      "forcedProtocol": -1
+    },
+    "RaysGrid.mcserver.us:25565": {
+      "forcedProtocol": -1
+    }
+  }
+}

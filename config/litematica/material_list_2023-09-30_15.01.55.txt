@@ -1,0 +1,35 @@
++---------------------+-------+---------+--------------+
+| Material List for placement 'Slime Farm Nether Side' |
++---------------------+-------+---------+--------------+
+| Item                | Total | Missing |    Available |
++---------------------+-------+---------+--------------+
+| Gray Stained Glass  | 12619 |   12619 |            0 |
+| Magma Block         |   684 |     684 |            0 |
+| Observer            |   675 |     675 |           11 |
+| Gray Concrete       |   578 |     578 |            0 |
+| Piston              |   348 |     348 |            3 |
+| Obsidian            |   312 |     312 |         1377 |
+| Powered Rail        |   248 |     248 |           53 |
+| Oak Leaves          |   241 |     241 |            0 |
+| Iron Trapdoor       |   240 |     240 |            0 |
+| Quartz Slab         |   156 |     156 |            0 |
+| Packed Ice          |   146 |     146 |            0 |
+| Smooth Quartz Block |   144 |     144 |            0 |
+| White Carpet        |   144 |     144 |            0 |
+| Oak Fence Gate      |   130 |     130 |            0 |
+| Stone Button        |   122 |     122 |            0 |
+| Oak Trapdoor        |    72 |      72 |            1 |
+| Sticky Piston       |    44 |      44 |           24 |
+| Redstone Repeater   |    39 |      39 |            0 |
+| Slime Block         |    37 |      37 |          147 |
+| Note Block          |    26 |      26 |           23 |
+| Chest               |    16 |      16 |            0 |
+| Dropper             |    13 |      13 |            0 |
+| Cobblestone Wall    |    12 |      12 |            0 |
+| Glass               |     9 |       9 |           39 |
+| String              |     3 |       3 |            0 |
+| Lever               |     1 |       1 |            0 |
+| Redstone Lamp       |     1 |       1 |            5 |
++---------------------+-------+---------+--------------+
+| Item                | Total | Missing |    Available |
++---------------------+-------+---------+--------------+

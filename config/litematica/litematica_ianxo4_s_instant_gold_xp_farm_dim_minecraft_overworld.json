@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 253,
+    "layer_above": -8,
+    "layer_below": 124,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "ianx04 gold ow",
+    "current": "ianx04 gold ow",
+    "boxes": [
+      {
+        "pos1": [
+          5251,
+          195,
+          4983
+        ],
+        "pos2": [
+          5247,
+          190,
+          4995
+        ],
+        "name": "ianx04 gold ow"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

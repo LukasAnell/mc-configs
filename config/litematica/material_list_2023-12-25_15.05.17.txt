@@ -1,0 +1,76 @@
++--------------------------+-------+---------+-----------+
+| Material List for placement 'schmoe digsort'           |
++--------------------------+-------+---------+-----------+
+| Item                     | Total | Missing | Available |
++--------------------------+-------+---------+-----------+
+| White Stained Glass      |  1494 |    1494 |         0 |
+| Hopper                   |   315 |     315 |         0 |
+| Chest                    |   285 |     285 |         0 |
+| Redstone Dust            |   249 |     249 |         0 |
+| White Concrete           |   234 |     234 |         0 |
+| Redstone Repeater        |   231 |     231 |         0 |
+| Observer                 |   215 |     215 |         0 |
+| Packed Ice               |   213 |     213 |         0 |
+| Redstone Comparator      |   201 |     201 |         0 |
+| Red Concrete             |   170 |     170 |         0 |
+| Slime Block              |   164 |     164 |         0 |
+| Barrel                   |    79 |      79 |         0 |
+| Red Stained Glass        |    77 |      77 |         0 |
+| Block of Redstone        |    75 |      75 |         0 |
+| Composter                |    73 |      73 |         0 |
+| Dropper                  |    73 |      73 |         0 |
+| Piston                   |    71 |      71 |         0 |
+| Lime Stained Glass       |    70 |      70 |         0 |
+| Light Blue Stained Glass |    65 |      65 |         0 |
+| Activator Rail           |    60 |      60 |         0 |
+| Note Block               |    59 |      59 |         0 |
+| Redstone Torch           |    59 |      59 |         0 |
+| Sticky Piston            |    44 |      44 |         0 |
+| Dispenser                |    36 |      36 |         0 |
+| Brain Coral Fan          |    26 |      26 |         0 |
+| Iron Trapdoor            |    26 |      26 |         0 |
+| Water Bucket             |    25 |      25 |         1 |
+| Lime Concrete            |    23 |      23 |         0 |
+| Powered Rail             |    20 |      20 |         0 |
+| Light Blue Concrete      |    19 |      19 |         0 |
+| Melon                    |    17 |      17 |         0 |
+| Oak Leaves               |    16 |      16 |         0 |
+| White Shulker Box        |    16 |      16 |         0 |
+| Obsidian                 |    14 |      14 |         0 |
+| Jack o'Lantern           |    13 |      13 |         0 |
+| Block of Diamond         |    12 |      12 |         0 |
+| Smooth Quartz Stairs     |     9 |       9 |         0 |
+| Soul Sand                |     8 |       8 |         0 |
+| White Stained Glass Pane |     7 |       7 |         0 |
+| Oak Sign                 |     6 |       6 |         0 |
+| Ender Chest              |     4 |       4 |        31 |
+| Stone                    |     4 |       4 |         0 |
+| Lever                    |     3 |       3 |         0 |
+| Oak Trapdoor             |     3 |       3 |         0 |
+| Honey Block              |     2 |       2 |         0 |
+| Iron Door                |     2 |       2 |         0 |
+| Light Gray Shulker Box   |     2 |       2 |         0 |
+| Snow Block               |     2 |       2 |         0 |
+| Andesite                 |     1 |       1 |         0 |
+| Birch Pressure Plate     |     1 |       1 |         0 |
+| Black Shulker Box        |     1 |       1 |         0 |
+| Cake                     |     1 |       1 |         0 |
+| Coal Ore                 |     1 |       1 |         0 |
+| Deepslate                |     1 |       1 |         0 |
+| Diorite                  |     1 |       1 |         0 |
+| Dirt                     |     1 |       1 |         0 |
+| Granite                  |     1 |       1 |         0 |
+| Grass Block              |     1 |       1 |         0 |
+| Gravel                   |     1 |       1 |         0 |
+| Iron Ore                 |     1 |       1 |         0 |
+| Oak Fence Gate           |     1 |       1 |         0 |
+| Quartz Stairs            |     1 |       1 |         0 |
+| Redstone Lamp            |     1 |       1 |         0 |
+| Sand                     |     1 |       1 |         0 |
+| Sandstone                |     1 |       1 |         0 |
+| Smooth Stone Slab        |     1 |       1 |         0 |
+| Tuff                     |     1 |       1 |         0 |
+| White Concrete Powder    |     1 |       1 |         0 |
++--------------------------+-------+---------+-----------+
+| Item                     | Total | Missing | Available |
++--------------------------+-------+---------+-----------+

@@ -1,0 +1,14 @@
+{
+  "renderers": {
+    "random_tickable_chunks": {
+      "pos": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "slime_chunks": {
+      "y_top": 260.36671093773697
+    }
+  }
+}

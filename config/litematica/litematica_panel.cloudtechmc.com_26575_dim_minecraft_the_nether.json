@@ -1,0 +1,86 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.17.1 Updated\\.minecraft\\schematics\\ChunkLoader_NetherSide.litematic",
+        "name": "ChunkLoader_NetherSide",
+        "origin": [
+          1293,
+          248,
+          1188
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "ChunkLoader_NetherSide",
+            "placement": {
+              "pos": [
+                4,
+                0,
+                0
+              ],
+              "name": "ChunkLoader_NetherSide",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 208,
+    "layer_above": -8,
+    "layer_below": 124,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Aubergine Chop Center",
+    "current": "Aubergine Chop Center",
+    "boxes": [
+      {
+        "pos1": [
+          10921,
+          105,
+          8873
+        ],
+        "pos2": [
+          10155,
+          105,
+          8262
+        ],
+        "name": "Aubergine Chop Center"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

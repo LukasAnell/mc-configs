@@ -1,0 +1,103 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "D:\\MultiMC\\instances\\Fabric 1.17.1 Updated\\.minecraft\\schematics\\Mechanists_DigSort_v6.litematic",
+        "name": "Mechanists DigSort v6",
+        "origin": [
+          10304,
+          106,
+          9794
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Mechanists DigSort v6",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Mechanists DigSort v6",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "ChunkLoader",
+            "placement": {
+              "pos": [
+                4,
+                39,
+                21
+              ],
+              "name": "ChunkLoader",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 208,
+    "layer_above": -8,
+    "layer_below": 124,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Extra Beacon Placement",
+    "current": "Extra Beacon Placement",
+    "boxes": [
+      {
+        "pos1": [
+          10315,
+          111,
+          9780
+        ],
+        "pos2": [
+          10325,
+          111,
+          9799
+        ],
+        "name": "Extra Beacon Placement"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}
